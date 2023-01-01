@@ -6,6 +6,8 @@ main:
     url: /ultimate/
   - title: "Frisbeesport"
     url: /frisbeesport/
+  - title: "Udstyr"
+    url: /udstyr/
   - title: "Historie"
     url: /historie/
   - title: "Blog"
