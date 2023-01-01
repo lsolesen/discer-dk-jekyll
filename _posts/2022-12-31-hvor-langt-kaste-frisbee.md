@@ -20,7 +20,7 @@ faq:
     answer: Hyzer og anhyzer er en betegnelse for den hældning golfdiscen har, når du kaster den. I et _hyzer_ højrehåndet baghåndskast vender den venstre kant af frisbeen nedad. Det gør, at frisbeen vil dreje endnu mere mod venstre til sidst i kastet. I et _anhyzer_ kast vender den venstre kant opad, hvilket vil få frisbeen til at gå mod højre i starten af kastet.
 ---
 
-Du kan kaste rigtig langt med en frisbee. Særligt hvis du har en dedikeret _driver_.
+Du kan kaste rigtig langt med en frisbee. Særligt hvis du har en dedikeret _driver_. Vi har fundet følgende distancerekorder og frisbeetyper på [discimport.dk](https://discimport.dk/blog/laengste-kast-med-en-frisbee).
 
 {% include video provider="youtube" id="4785JLeh50" %}
 
@@ -40,3 +40,15 @@ Jeg har i hvert fald en del, jeg skal have øvet på for at komme i nærheden af
 ## Længste drive i verden
 
 {% include video provider="youtube" id="joW8GkcnaMk" %}
+
+
+Man kan kaste virkelig langt med en frisbee. Allerlængst kan man kaste med golfdiscs.
+
+Distancerekorder med en frisbee
+X-clone (1995) – Discraft: Ny længderekord i 1995 med 200,01 meter.
+XL (1998) – Discraft: Ny længderekord i 1998 med 211,32 meter.
+XS (2000) – Discraft: Ny længderekord i 2001 med 217,05 meter.
+Teebird (1999) – Innova: Ken Jarvis sætter ny længderekord i 2002 på 247 meter, hvilket var en forbedring på 30 meter.
+Valkyrie - 45 minutter efter Ken Jarvis sætter svenske Christian Sandström ny rekord med sin Valkyrie på 250 meter.
+David Wigins kaster 255 meter i 2012.
+Hvor langt kan du kaste?
