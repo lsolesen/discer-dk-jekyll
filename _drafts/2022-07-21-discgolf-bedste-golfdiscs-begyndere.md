@@ -20,6 +20,62 @@ faq:
     answer: En golfdiscs stabilitet refererer til discens flyveegenskaber. Hvis du laver et højrehåndet baghåndskast med høj hastighed, så vil en understabil disc have en tendens til at dreje lidt mod højre i starten. En stabil disc vil flyve mere lige ud. En overstabil disc vil trække mod venstre i starten både ved høj og lav udgangshastighed. Det har særligt betydning for discens svæveegenskaber, da de fleste discs vil fade lidt mod venstre til sidst.
 ---
 
+HVILKEN FRISBEE SKAL JEG VÆLGE TIL DISCGOLF?
+AF LARS OLESEN, 12/03/2012 - 21:50
+Hvilken golfdisc skal du vælge?
+Der findes rigtig mange typer discs til discgolf, og discene har mange forskellige egenskaber og sværhedsgrader. Her får du lidt tips til at vælge den rigtige disc til at komme i gang med discgolf.
+
+Lær først et par discs godt at kende
+Reelt behøver du kun en golfdisc for at komme i gang. Hvis du bliver grebet af spillet, får du sikkert lyst til at afprøve en masse forskellige former for discs, og så får du brug for en større taske til din samling. Et godt råd er altid, at finde 3 gode golfdiscs at spille med (en driver, en midrange og en putter) og så blive helt fortrolig med dem. Når du er fortrolig med dem, kan du altid afprøve nogle flere discs.
+
+Typer af discs til discgolf
+Der findes tre typer af discs:
+
+Putt & indspil - Til korte kast
+Midrange - Til mellem distance
+Drivers og Fairway drivers - Til maximum distance
+Der er utallige modeller i alle kategorierne - og discs er især karakteriseret af egenskaber og flyvebaner.
+
+Hvilken disc skal jeg vælge som driver?
+Det kan være svært  at overskue hvilke discs, der egner sig bedst til begyndere og øvede spillere, men her er et par hovedregler:
+
+En let disc er lettere at kaste med. Desto lettere en golf disc er, desto nemmere er den at kaste med, da du ikke skal bruge så mange kræfter som ved en tungere golfdisc.
+En stabil-understabil disc er lettere at kaste lige med. Det er fordi en stabil-understabil golfdisc modarbejder discens naturlige tendens til at dreje mod venstre (for en højrehåndet kaster) og kan derfor være nemmere at kaste lige.
+Vi anbefaler derfor en nybegynder at vælge lette, stabile discs. Der findes ingen begynder discs, men nogen discs er lettere at kontrollere end andre discs.
+
+Golfdiscens egenskaber
+Discs er meget forskellige. Nogle golf discs egner sig bedst til at flyve langt, andre til korte distancer med mere kontrol, andre til at dreje højre eller venstre. Og for at gøre det endnu mere besværligt at vælge, så har hver enkelt discs som regel flere forskellige egenskaber.
+
+Plastiktype har også indflydelse på en discs egenskaber. En discmodel kan være lavet af forskellig plastik, og derfor kan discens egenskaber variere en smule. Det er for det meste ikke noget producenten oplyser, men noget discgolfspilleren opdager selv.
+
+Hvad betyder understabil og overstabil?
+En understabil disc vil i begyndelsen af sin flyvebane trække mod højre (for en højrehåndsspiller, der kaster baghånd) og derved modvirke discens naturlige tendens til at dreje mod venstre (lav high-speed turn). Derfor er stabile og lettere understabile golfdiscs ofte nemmere at kontrollere og kaste lige med. En overstabil disc vil derimod have nemmere ved at trække mod venstre i sin flyvebane.
+
+I blæsevejr er det lettest med en overstabil-stabil disc. En overstabil disc bevarer sine flyveegenskaber bedre i vinden, modsat en understabil golfdisc som ikke har noget modstand til at bekæmpe vinden.
+Uden vind er en understabil disc lettest at kaste med. Hvis der ingen vind er på banen er understabile disce at foretrække.
+Discrafts rating
+Den amerikanske producent, Discraft, benævner deres disce med et nummer fra -3 til +3, hvor -3 er mest understabil og +3 er mest overstabil.
+
+Så en disc med -3 i rating er altså mere understabil end en der har +3. Fx har Xpress  -1 i rating og er derfor nemmere at kontrollere og kaste lige, hvorimod Predator har +2.5 i rating og er defor sværere at kontrollere og kaste lige. Til gengæld kan man gøre ting med en overstabil disc som man ikke kan i samme grad med en understabil disc.
+
+ 
+
+Innova, Discmania og Latitude64 ratings
+Hos amerikanske Innova, svenske Latitude64 og finske Discmania benytter man sig af fire kategorier: speed, glide, fade og turn.
+
+Turn er discens evne til at gå i en højredrejet retning i starten af flyvebanen (jo lavere tal, jo mere understabil, jo mere til højre).
+Fade er discens evne til at dreje til  venstre i slutningen af flyvebanen (jo højere tal, jo mere til venstre).
+Speed er discens evne til at skære gennem luften med maximum fart og deraf længde.
+Glide er discen evne til at holde sit svæv i luften.
+Putt & Approach
+Putt & indspil discs eller puttere er også under- eller overstabile, men da de ikke er designet til at flyve så langt kommer deres stabilitet ikke så kraftigt til udtryk. Valget af putter er i meget høj grad er baseret på personlig smag. Jo længere afstande man benytter sin putter ved, jo mere kommer stabiliteten til udtryk. Men de mest populære putters er umiddelbart modellerne Magnet fra Discraft og Aviar fra Innova.
+
+Hvad er dine gode råd?
+Hvad var din første golfdisc? Og hvad er dit bedste råd til valg af en disc til discgolf?
+
+***
+
+
 Disc Golf Discs
 Disc golf discs er en form for frisbee golf, hvor spillerne kaster en skive mod et mål, typisk en metalkurv eller en stang. Målet er at gennemføre banen på færrest mulige kast. Discgolf skiver findes i forskellige former og størrelser med variationer for afstand, nøjagtighed og kontrol. De er lavet af plastik og har en større kant end traditionelle frisbees for at give dem mere stabilitet under flyvning. Disc golf er blevet mere og mere populært siden opfindelsen i 1970’erne, og der er opstået baner over hele verden og endda blevet afholdt professionelle turneringer. Det er en billig og let tilgængelig sport for alle aldre og evner. Så snup en disc og tag til den nærmeste disc golf bane for at have det sjovt udendørs!
 
