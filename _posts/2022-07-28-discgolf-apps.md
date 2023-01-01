@@ -136,7 +136,7 @@ Du kan endnu ikke finde banekort, øve dig eller andre af de smarte ting, du fx 
 
 ## 5. Discgolf Strong
 
-Det er en god ide at forebygge skader, når du spiller discgolf. Faktisk er [skader rimelig udbredte i discgolf sporten](/program/discgolf-skade-prehab/). Her kan Discgolf Strong hjælpe dig med at lave et træningsprogram.
+Det er en god ide at forebygge skader, når du spiller discgolf. Faktisk er [skader rimelig udbredte i discgolf sporten](https://www.motionsplan.dk/program/discgolf-skade-prehab/). Her kan Discgolf Strong hjælpe dig med at lave et træningsprogram.
 
 Desværre har appen ikke relevante træningsprogrammer, der er lavet på forhånd. Du skal således selv i gang med at udvælge dine øvelser, men så kan du bruge appen til at holde styr på din træning.
 

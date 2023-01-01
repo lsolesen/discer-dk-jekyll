@@ -150,7 +150,7 @@ Forhåndskastets svæebane slutter mod højre, hvis du kast med højre hånd.
 
 For mange nye spillere er forhåndskastet måske uvant, fordi de fleste har spillet med baghånd, når man står og kaster frisbee til hinanden. Alligevel har mange nye spillere lettere ved at få længde på deres forhåndskast, fordi det er en mere naturlig måde at kaste på.
 
-Der er også lidt større risiko for at få skader i albuen, hvis du bruger forhåndskastet. Du kan læse vores guide til [skader i discgolf](/program/discgolf-skade-prehab/).
+Der er også lidt større risiko for at få skader i albuen, hvis du bruger forhåndskastet. Du kan læse vores guide til [skader i discgolf](https://www.motionsplan.dk/program/discgolf-skade-prehab/).
 
 Discmanias rigtig gode tutorial til forhåndskastet kan du se her: 
 

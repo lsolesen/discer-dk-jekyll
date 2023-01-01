@@ -20,7 +20,7 @@ faq:
     answer: Hyzer og anhyzer er en betegnelse for den hældning golfdiscen har, når du kaster den. I et _hyzer_ højrehåndet baghåndskast vender den venstre kant af frisbeen nedad. Det gør, at frisbeen vil dreje endnu mere mod venstre til sidst i kastet. I et _anhyzer_ kast vender den venstre kant opad, hvilket vil få frisbeen til at gå mod højre i starten af kastet.
 ---
 
-Du kan kaste rigtig langt med en frisbee. Særligt hvis du har en dedikeret _driver_. Vi har fundet følgende distancerekorder og frisbeetyper på [discimport.dk](https://discimport.dk/blog/laengste-kast-med-en-frisbee).
+Du kan kaste rigtig langt med en frisbee. Særligt hvis du har en dedikeret _driver_.
 
 {% include video provider="youtube" id="4785JLeh50" %}
 
