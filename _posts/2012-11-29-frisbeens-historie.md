@@ -11,11 +11,15 @@ header:
   caption: "Foto: [Wham-O](http://www.history.com/this-day-in-history/toy-company-wham-o-produces-first-frisbees)"
 ---
 
-Her følger en gennemgang af frisbeens udvikling fra tærteform til den moderne golf disc. Vi har udvalgt en række discs, som enten har været med til at afsøge grænser i udviklingen af frisbees og golf discs, har anden historisk interesse, fx de første discs fra betydningsfulde producenter, eller ganske enkelt bare fordi de har udmærket sig som nogen af de bedste discs gennem tiderne.
+Her følger en gennemgang af frisbeens udvikling fra tærteform til den moderne golf disc. Vi har udvalgt en række discs, som har historisk interesse.
+
+Det er enten frisbees, som har været med til at afsøge grænser i udviklingen af frisbees og golf discs, de første discs fra betydningsfulde producenter, eller ganske enkelt fordi de har udmærket sig som nogen af de bedste discs gennem tiderne.
+
+I denne Youtube-video kan du dykke yderligere ned i historien.
 
 {% include video provider="youtube" id="06GrLdkDmIU" %}
 
-I gennemgangen er desuden medtaget alle discs der på et tidspunkt har været brugt til at kaste distancerekorder.
+I gennemgangen er desuden medtaget alle discs der på et tidspunkt har været brugt til at [kaste distancerekorder](/kasterekorder-frisbee/).
 
 <div class="feature__wrapper">
 

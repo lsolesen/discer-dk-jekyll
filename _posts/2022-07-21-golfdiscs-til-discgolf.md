@@ -1,6 +1,6 @@
 ---
 title: &title "Golfdiscs: Hvilken frisbee skal jeg vælge til discgolf?"
-excerpt: "Når du leder efter en golfdisc til discgolf, så er der rigtig mange muligheder. Her får du nogle tips til at vælge den rigtige disc, når du gerne vil i gang med at spille discgolf."
+excerpt: "Der findes rigtig mange forskellige discs til discgolf. Her får du en guide til at vælge den rigtige golfdisc, når du gerne vil i gang med at spille discgolf."
 ## seo_title: "140+ Discgolf baner i Danmark: Hvor kan du spille i 2022?"
 permalink: /golfdisc-til-discgolf/
 language: da
@@ -51,7 +51,7 @@ Der findes grundlæggende tre typer af discs til discgolf. Du kan opfatte de for
 - **Midrange** - Denne type discs bruges til at kaste mellem distance, eller **hvis du kun har brug for en enkelt disc**.
 - **Fairway drivers** og **Distance drivers** til at kaste de rigtig lange kast og få maksimal distance. Disse discs kan være lidt sværere at styre.
 
-Der findes utallige modeller og muligheder i alle kategorierne. Særligt for _midrange_, _fairway_, og _distance drivers_ skal du kende mere til de forskellige egenskaber og flyvebaner. Det har nemlig stor betydning for, hvordan discen skal kastes, og hvilke kast de enkelte discs egner sig til.
+Der findes utallige modeller og muligheder i alle kategorierne. Særligt for _midrange_, _fairway_ og _distance drivers_ skal du kende mere til de forskellige egenskaber og flyvebaner. Det har nemlig stor betydning for, hvordan discen skal kastes, og hvilke kast de enkelte discs egner sig til.
 
 Lad os dykke ned i egenskaberne for frisbees til discgolf.
 
@@ -104,7 +104,7 @@ Du kan kigge på discens flyveegenskaber for at finde ud af, om en disc er overs
 
 {% include figure image_path="/assets/images/blog/vaelg-golfdics-til-discgolf-essence-discimport.png" caption="Sådan er beskrivelsen hos mange forhandlere. I beskrivelsen står der at denne Essence fra Discmania er understabil, og du kan se discens flyveegenskaber. Her kan du aflæse, at _turn_ står til -2, så den er understabil. Det betyder også, at den er fornuftig til begyndere, som du kan læse længere nede" alt="golfdisc til discgolf med flyveegenskaber" %}
 
-Ifølge [Discimport.dk](https://discimport.dk/blog/hvilken-frisbee-skal-jeg-vaelge-til-discgolf) så kan du bruge din viden om discens stabilitet til følgende, når du spiller:
+Du kan bruge din viden om discens stabilitet til følgende, når du spiller:
 
 - **I blæsevejr er det lettest med en overstabil-stabil disc.** Den overstabile golfdisc bevarer sine flyveegenskaber bedre i vinden. Den understabile golfdisc har ikke den samme modstand til at bekæmpe vindens påvirkning af flyvebanen.
 - **Uden vind er en understabil disc lettest at kaste med.** Hvis der ikke er så meget vind på banen, så er de understabile discs lettere at kaste med.
@@ -117,9 +117,9 @@ Ifølge [Discimport.dk](https://discimport.dk/blog/hvilken-frisbee-skal-jeg-vael
 
 Hvilken putter du skal vælge afhænger meget er personlige præferencer. Hvis du bruger din putter over længere afstande, så skal du naturligvis tage højde for stabiliteten også. 
 
-Der er rigtig mange forskellige populære puttere. [Aviar](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606&htmlurl=https://discshoppen.dk/products/innova-dx-classic-aviar){: rel="sponsored nofollow noopener" } fra det velkendte mærke Innova er en af de populære puttere, men der findes mange [andre modeller](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606&htmlurl=https://discshoppen.dk/collections/disc-golf-puttere-approach){: rel="sponsored nofollow noopener" }.
+Der er rigtig mange forskellige populære puttere. [Aviar](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606&htmlurl=https://discshoppen.dk/products/innova-dx-classic-aviar){: rel="sponsored nofollow noopener" } fra det velkendte mærke Innova er en af de populære puttere, men der findes også mange [andre modeller](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606&htmlurl=https://discshoppen.dk/collections/disc-golf-puttere-approach){: rel="sponsored nofollow noopener" }.
 
-Mikael Birkelund Jensen-Johansen fra [Discimport.dk](https://discimport.dk/) anbefaler fx også modellerne Pure, P2, Rainmaker, Luna og Link, hvis du gerne vil have en god og træfsikker putter.
+Mikael Birkelund Jensen-Johansen fra [Discimport](https://discimport.com/) anbefaler fx også modellerne Pure, P2, Rainmaker, Luna og Link, hvis du gerne vil have en god og træfsikker putter.
 
 ## Hvilken driver skal jeg vælge?
 
@@ -156,14 +156,16 @@ Her er et par **hovedregler**, som gør det lettere for dig som begynder at tage
 - **En let disc er lettere at kaste med.** Desto lettere en golfdisc er, desto lettere er den at kaste med. Du skal ikke bruge så mange kræfter som en tungere golfdisc.
 - **En stabil-understabil disc er lettere at kaste lige med.** Den stabile-understabile golfdisc modarbejder discens naturlige tendens til at dreje mod venstre (for en højrehåndet kaster) og kan derfor være lettere at kaste lige. Dette gælder særligt i nogenlunde vindstille vejr.
 
-Jeg anbefaler derfor **nybegyndere at vælge lette, understabile discs**. Der findes ingen begynderdiscs, men nogen golfdiscs er lettere at kontrollere end andre discs. Derfor laver en del af forhandlerne også begyndersæt, som du kan starte med.
+Jeg anbefaler derfor **nybegyndere at vælge lette, understabile discs**. Der findes ingen begynderdiscs, men nogen golfdiscs er lettere at kontrollere end andre discs. Derfor laver en del af forhandlerne også [begyndersæt til discgolf](/discgolf-startsaet/), som du kan starte med.
 
 ## Hvor kan jeg købe frisbees til discgolf?
 
 Discgolfsporten er i rivende udvikling. Det betyder, at der er mange forhandlere af golfdiscs. Du kan købe frisbees i både købe sportsbutikker, dedikerede butikker til sporten og online.
 
-- **Discimport.dk** var den første onlineshop til frisbees og discgolf. For nylig har de udvidet med fysiske butikker også. Du kan læse mere på [discimport.dk](https://discimport.dk/).
+- **Discimport.dk** var den første onlineshop til frisbees og discgolf. For nylig har de udvidet med fysiske butikker også. Du kan læse mere på [discimport.com](https://discimport.com/).
 - **Discshoppen.dk** er en anden onlinebutik, hvor du kan købe udstyr til frisbeesporten. Tjek deres [hjemmeside](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606){: rel="sponsored nofollow noopener" }. Hvis du har brug for et stort udvalg, så skal du dog vælge Discimport.dk.
+
+Læs: [Online butikker med discgolf som speciale](/discgolf-butikker/)
 
 ## Ofte stillede spørgsmål om golfdiscs
 

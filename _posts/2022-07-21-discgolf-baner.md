@@ -1,7 +1,7 @@
 ---
 title: &title "Discgolf baner i Danmark: Hvor kan du spille?"
-seo_title: "140+ Discgolf baner i Danmark: Hvor kan du spille i 2022?"
-excerpt: "At gå en runde på en af de mange discgolf baner i danmark er en fantastisk måde at tilbring tid sammen med vennerne på. Her kan du læse mere om, hvor du kan spille discgolf?"
+seo_title: "140 discgolf baner i Danmark"
+excerpt: "Du kan spille på en af de mange discgolf baner i danmark gratis. Her kan du læse mere om, hvor du kan spille discgolf?"
 permalink: /discgolf-baner/
 language: da
 header:
@@ -14,7 +14,7 @@ tags:
 last_modified_at: 2022-07-21T10:21:26Z
 ---
 
-At gå en runde på en af de mange discgolf baner i danmark er en fantastisk måde at tilbring tid sammen med vennerne på. Her kan du læse mere om, hvor du kan spille discgolf?
+At gå en runde på en af de mange discgolf baner i danmark er en fantastisk måde at tilbringe tid sammen med vennerne på. Her kan du læse mere om, hvor du kan spille discgolf?
 
 Discgolf er en sjov aktivitet, du kan lave udendørs, og hvor alle kan være med - og hvor alle kan spille sammen. Det gør det bl.a. til en fortrinlig familieaktivitet. Der dukker hele tiden flere og flere baner op, så sporten bliver også mere tilgængelig.
 
@@ -62,7 +62,7 @@ Discgolf er efterhånden ved at være en folkesport i Danmark. Det kan man også
 
 På dette kort fra uDisc kan du se fordelingen af baner rundt omkring i Danmark.
 
-{% include figure image_path="https://cdn.shopify.com/s/files/1/0528/0845/0204/files/Kort_over_disc_golf_baner_i_Danmark_2022_2a5e3f90-03a0-41ed-8c2b-5b4e0fd8d9ca_1024x1024.png?v=1646678224" caption="Discgolfbaner i Danmark ifølge Udisc. Opdateret 2022. Se hele listen på deres [hjemmeside](https://www.pdga.com/course-directory?field_course_location_country=DK). Kilde: [disctree.dk](https://disctree.dk/pages/disc-golf-i-danmark){: rel='nofollow noopener' }" alt="Kort over Discgolf baner i Danmark" %}
+{% include figure image_path="https://cdn.shopify.com/s/files/1/0528/0845/0204/files/Kort_over_disc_golf_baner_i_Danmark_2022_2a5e3f90-03a0-41ed-8c2b-5b4e0fd8d9ca_1024x1024.png?v=1646678224" caption="Discgolfbaner i Danmark ifølge Udisc. Opdateret 2022. Se hele listen på deres [hjemmeside](https://www.pdga.com/course-directory?field_course_location_country=DK). Kilde: [disctree.dk](https://disctree.dk/pages/disc-golf-i-danmark)" alt="Kort over Discgolf baner i Danmark" %}
 
 Når du har fundet en bane, du gerne vil spille, så kan du også tjekke om der findes nogle [lokale regler for handicap på banen](/discgolf-handicap/).
 
@@ -90,11 +90,11 @@ Multigolfpark er et nyt fedt koncept hvor samme areal bruges til tre forskellige
 
 I uDisc appen kan du se, hvor mange kurve der er på banerne rundt omkring. Typisk har banerne mellem 6-18 kurve, men rigtig mange baner har 9 kurve. Hvis du gerne vil gå 18 huller, som man typisk gør i golf, så kan du bare spille banerne flere gange.
 
-## Hvor lang tid tager det at spille banen?
+## Hvor lang tid tager det at spille?
 
 Det er meget forskelligt på de enkelte baner. Hvor mange huller har banen? Hvor velholdt er banen? Hvor mange skal I spille?
 
-Der er mange faktorer, der har betydning for, hvor langt tid det tager at spille. Hvis græsset er langt, eller der er en masse budskads, så skal du påregne at bruge lidt tid på at lede efter dine discs undervejs.
+Der er mange faktorer, der har betydning for, hvor langt tid det tager at spille. Hvis græsset er langt, eller der er en masse buskads, så skal du påregne at bruge lidt tid på at lede efter dine discs undervejs.
 
 Det er en rigtig god ide at være rigtig opmærksom på, hvor discen lander. Så er den noget lettere at finde.
 
@@ -110,13 +110,15 @@ Når du har fået fat i nogle discs, så er det også meget rart at vide, hvilke
 
 ## Hvor kan jeg købe discs?
 
-Discgolfsporten er virkelig blomstret de seneste år. Nu kan du både købe discgolfs i sportsbutikker, dedikerede butikker til sporten og online.
+Discgolfsporten er virkelig blomstret de seneste år. Nu kan du både købe golfdiscs i sportsbutikker, dedikerede butikker til sporten og online.
 
-- **Discimport.dk** var den første onlineshop til frisbees og discgolf. For nylig har de udvidet med fysiske butikker også. Du kan læse mere på [discimport.dk](https://discimport.dk/).
+- **Discimport.dk** var den første onlineshop til frisbees og discgolf i Danmark. For nylig har de udvidet med fysiske butikker også. Du kan læse mere på [discimport.dk](https://discimport.dk/).
 - **Discshoppen.dk** er en anden onlinebutik, hvor du kan købe udstyr til frisbeesporten. Tjek deres [hjemmeside](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606){: rel="sponsored nofollow noopener" }. Hvis du har brug for et stort udvalg, så skal du dog vælge Discimport.dk.
+
+Læs: [Find de bedste discgolf og frisbee forhandlere i Danmark](/discgolf-butikker/)
 
 ## Konklusion
 
-Discgolf er en fantastisk måde at tilbringe tid i det fri med venner på. Det er nemt at lære, og du behøver kun dine egne skiver for at spille. Du kan finde discgolf baner over hele Danmark, og de varierer i forhold til, hvor velholdte de er.
+Du kan finde discgolf baner over hele Danmark, og de varierer i forhold til, hvor velholdte de er.
 
 Tjek uDisc-appen, inden du tager af sted, for at sikre dig, at banen er i god stand, og hvad du skal tænke på. Du kan også udnytte nogle af de andre [discgolf apps](/discgolf-apps/).

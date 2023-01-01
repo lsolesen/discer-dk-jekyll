@@ -1,7 +1,7 @@
 ---
 title: &title "Bedste disc til Ultimate frisbee?"
 seo_title: "Hvad er den bedste disc til Ultimate Frisbee?"
-excerpt: "Der er ingen tvivl om, at Ultrastar fra Discraft er den bedste frisbee til Ultimate. Den vejer 175 gram og flyver fantastisk og er god at gribe."
+excerpt: "Der er ingen tvivl om, at Ultrastar fra Discraft er den bedste frisbee til Ultimate. Den vejer 175 gram, flyver fantastisk og er god at gribe."
 permalink: /bedste-frisbee-til-ultimate/
 language: da
 header:
@@ -13,11 +13,11 @@ tags:
   - sport
 last_modified_at: 2022-07-21T10:21:26Z
 feature_row:
-  - image_path: /assets/images/freebies/ultimate-kompendium-dfsu.jpg
-    title: Ultimate i Gymnasiet
-    excerpt: På DFSU's hjemmeside kan du finde en gennemgang af Ultimate Frisbee, hvad man skal bruge for at komme i gang og en kort introduktion til Spirit of the Game.
-    url: På denne side finder du en gennemgang af spillets forløb, hvad man skal bruge for at komme i gang og en kort introduktion til Spirit of the Game.
-    btn_label: Hent kompendium
+  - image_path: https://discimport.com/wp-content/uploads/2022/07/discraft-ultrastar-175g-hvid-til-ultimate-frisbee-fit-1000x1000x100.png
+    title: Discraft Ultrastar 175
+    excerpt: Discraft Ultrastar er den perfekte frisbee til Ultimate Frisbee. Den er let at kaste og gribe. Ultrastar sætter standarden for ultimate frisbees.
+    url: https://discimport.com/product/discraft-ultrastar-175-ultimate-frisbee-disc/
+    btn_label: Gå til butik
     btn_class: btn--info
 faq:
   - question: Hvad er de bedste discs for en begynder?
@@ -27,10 +27,31 @@ faq:
   - question: Hvad betyder hyzer og anhyzer?
     answer: Hyzer og anhyzer er en betegnelse for den hældning golfdiscen har, når du kaster den. I et _hyzer_ højrehåndet baghåndskast vender den venstre kant af frisbeen nedad. Det gør, at frisbeen vil dreje endnu mere mod venstre til sidst i kastet. I et _anhyzer_ kast vender den venstre kant opad, hvilket vil få frisbeen til at gå mod højre i starten af kastet.
 ---
-Den traditionelle frisbee kommer i mange afstøbninger. Alene heraf kan det være svært at fastslå, hvilken der er den bedste. Vi giver det et skud og vurderer, hvilken frisbee, der er den bedste til ultimate, freestyle og catch - de tre traditionelle frisbee discipliner.
+
+Der findes utrolig mange forskellige frisbees, men det er ikke alle der egner sig til at spille ultimate med.
+
+Men det er faktisk ikke så svært, hvilken disc du skal vælge, hvis du gerne vil spille ultimate frisbee.
 
 ## Den bedste ultimate frisbee
 
-Der er ikke så meget at rafle om her. Discraft Ultrastar er bare den bedste, når det kommer til Ultimate Frisbee. Det er den, fordi den sammenlignet med alle andre ultimate frisbees har et fantastisk svæv og uovertruffen aerodynamik. Den sætter ganske enkelt standarden for, hvordan en ultimate frisbee bør svæve.
+Det er ikke til diskussion, hvilken frisbee du skal vælge til ultimate.
+
+Discraft Ultrastar er bare den bedste!
+
+Discraft Ultrastar har et fantastisk svæv og uovertruffen aerodynamik. Den sætter ganske enkelt standarden for, hvordan en ultimate frisbee bør svæve.
 
 {% include feature_row type="left" %}
+
+## Frisbee til børn
+
+Hvis du skal bruge en frisee til børn, fx til Ultimate i skolen, så kan du vælge Sky-Pro fra Discraft.
+
+Sky-Pro vejer kun 125 gram, men flyver som en Ultrastar. Vi anbefaler Sky-Pro til lidt mindre hænder (børn under 10).
+
+Sky-Pro fungerer også rigtig godt til lege på stranden, hvor der er risiko for at ramme andre mennesker, da den har en mindre vægt og derfor er mere sikker..
+
+## Konklusion
+
+Den officielle disc til ultimate er efterhånden en klassiker! Uanset om du har brug for en rigtig god frisbee til leg i haven eller er du vil prøve kræfter med ultimate-sporten, så anbefaler vi denne disc.
+
+Start med Ultrastar, og du vil ikke fortryde dit køb!
