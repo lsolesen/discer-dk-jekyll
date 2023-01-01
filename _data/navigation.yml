@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Discgolf"
+    url: /discgolf/
+  - title: "Ultimate"
+    url: /ultimate/
+  - title: "Frisbeesport"
+    url: /frisbeesport/
+  - title: "Historie"
+    url: /historie/
+  - title: "Blog"
+    url: /blog/
+  - title: "Om"
+    url: /om/

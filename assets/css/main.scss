@@ -1,0 +1,307 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.layout--single {
+  .container {
+    display: grid;
+
+    grid-template-areas:
+      "hero hero"
+      "breadcrumbs breadcrumbs"
+      "content sidebar-right"
+      "related-content related-content";
+    grid-template-columns: auto 300px;
+    
+    grid-template-rows: auto 1fr auto;
+    grid-gap: 1em;
+    row-gap: 0;
+
+    min-height: 100vh;
+  }
+  
+  .page__hero--overlay {
+    grid-area: hero;
+    margin-bottom: 0;
+  }
+
+  .page__hero {
+    grid-area: hero;
+    margin-bottom: 0;
+  }
+
+  #main {
+    grid-area: content;
+  }
+
+  .sidebar {
+    position: static;
+    height: auto !important;
+  }
+
+  .sidebar__right__new {
+    grid-area: sidebar-right;
+    padding-right: 1em;
+  }
+
+  .page__related {
+    grid-area: related-content;
+    width: 100%;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  .breadcrumbs {
+    grid-area: breadcrumbs;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    float: none;
+
+    ol {
+      margin-left: 1.3em;
+      padding: 0;
+      float: left;
+    }
+  
+    @include breakpoint($large) {
+      float: none;
+      width: 100%;
+    }
+  
+    @include breakpoint($x-large) {
+      float: none;
+      width: 100%;
+    }
+  }
+}
+
+.sidebar {
+  position: relative;
+  &.sticky {
+    overflow-y: auto;
+    /* calculate height of nav list
+       viewport height - nav height - masthead x-padding
+    */
+    max-height: 100%;
+  }
+}
+
+#mc_embed_signup {
+
+  .branding__logo {
+    float: left;
+    margin-right: 1em;
+  }
+
+  form#mc-embedded-subscribe-form {
+    background: white;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  form#mc-embedded-subscribe-form p.newsletter__title {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-block-start: 0em;
+    margin-block-end: 0.25em;
+    line-height: 1em;
+  }
+  form#mc-embedded-subscribe-form p {
+    font-size: 0.8em;
+    margin-top: 0;
+    padding-top: 0;
+    margin-block-start: 0em;
+    margin-block-end: 0.5em;
+    line-height: 1em;
+  }
+
+  form#mc-embedded-subscribe-form {
+    background: white;
+  }
+
+  fieldset {
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0;
+    padding: 1em;
+  }
+
+  .input-medium {
+    width: 250px;
+    border: 1px solid #ccc;
+    font-size: 0.9em;
+  }
+}
+
+.greedy-nav {
+  height: $nav-height;
+  max-height: $nav-height;
+}
+
+.comment__author {
+  @extend h3;
+}
+
+[rel~=sponsored]:after {
+    content: "*";
+}
+
+.btn--bmc {
+  background-color:hsl(51, 100%, 50%);
+}
+
+.disclosure, .disclaimer {
+    font-size: 13px !important;
+    color: #bbb;
+}
+
+form.calculator {
+  fieldset, legend {
+      margin: 0;
+      padding: 0;
+  }
+  fieldset {
+      padding: 1em !important;
+      background-color: #D8E4F8;
+
+      fieldset {
+          clear: both !important;
+          padding: 0 !important;
+          legend {
+              float: none !important;
+              font-weight: normal;
+          }
+      }
+
+      &.results {
+          color: white !important;
+          background-color: #34557A !important;
+
+          legend, label {
+              color: white !important;
+          }
+          .help-block, .help-inline {
+              color: #eee;
+          }
+      }
+
+      legend {
+        font-weight: bold;
+          float: left;
+          margin-bottom: .5em;
+          width: 100%;
+      }
+  }
+  input[type="submit"] {
+      @extend .btn;
+      @extend .btn--large;
+      @extend .btn--success;
+  }
+  .notes {
+      margin-top: 0.4em;
+      font-size: 0.9em;
+      color: #bbb;
+  }
+}
+
+body.layout--single {
+    .feature__item--left, .feature__item--right {
+        h2.archive__item-title {
+            margin-top: 0.5em !important;
+            margin-bottom: 0em !important;
+            font-size: 0.9em !important;
+        }
+        .archive__item-excerpt p:first {
+            margin-top: 0em !important;
+        }
+    }
+  }
+
+/* Grid view */
+
+body.layout--single .page__content .grid__item {
+
+    @include breakpoint($medium) {
+      margin-left: 0;
+      margin-right: 0;
+      width: span(4 of 12);
+
+      &:nth-child(4n + 1) {
+        clear: none;
+      }
+
+      &:nth-child(3n + 1) {
+        clear: both;
+        margin-right: gutter(1 of 12);
+      }
+
+      &:nth-child(3n + 2) {
+        clear: none;
+        margin-right: gutter(1 of 12);
+      }
+
+      &:nth-child(3n + 3) {
+        clear: none;
+      }
+    }
+  }
+
+  .youtube-container {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 600px;
+  }
+  .youtube-player {
+    display: block;
+    width: 100%;
+    /* assuming that the video has a 16:9 ratio */
+
+    padding-bottom: 56.25%;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    cursor: hand;
+    cursor: pointer;
+    display: block;
+  }
+  img.youtube-thumb {
+    bottom: 0;
+    display: block;
+    left: 0;
+    margin: auto;
+    max-width: 100%;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: auto
+  }
+  .play-button {
+    display: block;
+    height: 72px;
+    width: 72px;
+    left: 50%;
+    top: 50%;
+    margin-left: -36px;
+    margin-top: -36px;
+    position: absolute;
+    background: url("https://i.imgur.com/TxzC70f.png") no-repeat;
+  }
+  #youtube-iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }

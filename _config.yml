@@ -1,0 +1,349 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+ads: false
+
+# Jekyll specific
+future: false
+
+# Site Settings
+email                    : "lars@motionsplan.dk"
+locale                   : "da"
+title                    : "Discer"
+title_separator          : false # '-' # false # ""
+subtitle                 : "Alt om discgolf, ultimate og frisbeesport"
+name                     : "Discer"
+description              : "Alt om discgolf, ultimate og frisbeesport."
+url                      : "https://www.motionsplan.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "motionsplan/motionsplan-dk-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo                     : "/android-chrome-192x192.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "custom" # false # "custom" # false # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            : "motionsplan-dk"
+  graphcomment:
+    id                   : "motionsplan"
+staticman:
+  branch                 : "master"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+
+signup:
+  enabled: true
+  provider: mailchimp # false
+  url: https://motionsplan.us2.list-manage.com/subscribe/post?u=c17bb696b7624b69cbd0acaff&amp;id=90126d39b0&amp;f_id=004c40e0f0
+  recaptcha: b_c17bb696b7624b69cbd0acaff_90126d39b0
+
+
+# reCaptcha
+# Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
+# reCaptcha:
+#  enabled: true
+#  siteKey: "6LdCtVoUAAAAADcxG1WekIUuEuJy3YPoQ8DtbzK8"
+#  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+#  # For more information, https://staticman.net/docs/encryption
+#  secret: "B6TmweBhBmEXsUUZKFEXOuFbAOHGBluvOCpsyTzAR+jjB5IkDNXzQo2NmMt8alWLWHh1HentKbOWAOx7HCl7AH3qgSeGWIvaTV99lKC8IakuyWGd2ZJR+eGxqN5RbmiNA1e4NXT4Z3DEMzq89iM/1VFkjSOY+LqAtWkdpJQTIGQ="
+
+
+# SEO Related
+google_site_verification : # XrBJvDdRdqOQQEbceemaTB2Ufx4g2Ir0wTN9dKIjc9M
+bing_site_verification   : 47BA759FF44194382E7F9A4BB31E8ABE
+alexa_site_verification  :
+yandex_site_verification : c7c90c6d780c629d
+
+
+# Social Sharing
+twitter:
+  username               : "motionsplan"
+facebook:
+  username               : "motionsplan"
+  app_id                 : 145274118551
+  publisher              : https://www.facebook.com/motionsplan
+og_image                 : # Open Graph/Twitter default site image
+
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : "Organization" # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://www.facebook.com/motionsplan"
+    - "https://twitter.com/motionsplan"
+    - "https://www.pinterest.dk/motionsplan/"
+    - "https://www.instagram.com/motionsplan/"
+
+
+# Site search
+search: true
+
+search_provider: lunr ## algolia google lunr
+
+
+# Analytics
+analytics:
+  provider               : false # "google-gtag" # false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-3551451-2"
+
+
+footer:
+  links:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      webslides: "fa-facebook-official"
+#      url: "https://facebook.com/motionsplan"
+#    - label: "Pinterest"
+#      icon: "fab fa-fw fa-pinterest"
+#      webslides: "fa-pinterest"
+#      url: "https://www.pinterest.dk/motionsplan/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      webslides: "fa-instagram"
+#      url: "https://www.instagram.com/motionsplan/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      webslides: "fa-twitter"
+#      url: "https://twitter.com/motionsplan"
+#    - label: "Youtube"
+#      icon: "fab fa-fw fa-youtube"
+#      webslides: "fa-youtube"
+#      url: "https://www.youtube.com/channel/UCpybeLG46oZfczu4LfI5K0A"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      webslides: "fa-coffee"
+      url: "https://www.buymeacoffee.com/lsolesen"
+    - label: "Privatlivspolitik"
+      icon: "fas fa-fw fa-exclamation-triangle"
+      webslides: "fa-exclamation-triangle"
+      url: "/privatlivspolitik/"
+
+# Site Author
+author:
+  name: "Discer"
+  bio: "Viden om frisbeesporten, discgolf og ultimate."
+  avatar: "/android-chrome-192x192.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lars@motionsplan.dk"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      url: "https://www.facebook.com/motionsplan"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/motionsplan"
+#    - label: "Pinterest"
+#      icon: "fab fa-fw fa-pinterest"
+#      webslides: "fa-pinterest"
+#     url: "https://www.pinterest.dk/motionsplan/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      webslides: "fa-instagram"
+#      url: "https://www.instagram.com/motionsplan/"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - .nojekyll
+  - _redirects
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .jekyll-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - README.md
+  - Rakefile
+  - npm-debug.log
+  - composer.json
+  - composer.lock
+  - composer.phar
+  - tmp
+  - docs # ignore Minimal Mistakes /docs
+  - test # ignore Minimal Mistakes /test
+  - vendor
+  - src
+  - build
+  - node_modules
+  - .git
+  - .svn
+keep_files:
+  - assets/images
+  - assets/pdf
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Build settings
+github: [metadata]
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..3
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 500 # amount of posts to show
+paginate_path: /page/:num/
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-include-cache
+  - jekyll-gzip
+  - jekyll-brotli
+
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Collections
+collections:
+
+# Defaults
+defaults:
+  - scope:
+      path: "page"
+    values:
+      sitemap: false
+  - scope:
+      path: "/admin/"
+    values:
+      sitemap: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      breadcrumbs: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      toc: true
+      toc_sticky: false
+      author: lsolesen
+      sidebar:
+        nav: blog
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      breadcrumbs: false
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+      related: false
+      search: true
