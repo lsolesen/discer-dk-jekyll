@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Motionsplan: Content Manager v. 1.0.1</title>
+  <title>Discer: Content Manager v. 1.0.1</title>
   <meta name="robots" content="noindex, nofollow">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -44,35 +44,6 @@
     toPreview: function(obj) {
       return (
         '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
-      );
-    }
-  });
-  CMS.registerEditorComponent({
-    // Internal id of the component
-    id: "math",
-    // Visible label
-    label: "Math",
-    // Fields the user need to fill out when adding an instance of the component
-    fields: [
-      {name: 'formula', label: 'Formula', widget: 'string'}
-    ],
-    // Pattern to identify a block as being an instance of this component
-    pattern: /^\{% include math formula=\"(.*)\" %\}$/,
-    // Function to extract data elements from the regexp match
-    fromBlock: function(match) {
-      return {
-        formula: match[1]
-      };
-    },
-    // Function to create a text block from an instance of this component
-    toBlock: function(obj) {
-      return '{% include math formula="' + obj.formula + '" %}';
-    },
-    // Preview output for this component. Can either be a string or a React component
-    // (component gives better render performance)
-    toPreview: function(obj) {
-      return (
-        '<img src="https://latex.codecogs.com/svg.latex?' + obj.formula + '" title="' + obj.formula + '" alt="' + obj.formula + '">'
       );
     }
   });
@@ -138,36 +109,6 @@
   });
   CMS.registerEditorComponent({
     // Internal id of the component
-    id: "exercise",
-    // Visible label
-    label: "Exercise",
-    // Fields the user need to fill out when adding an instance of the component
-    fields: [
-      {name: 'key', label: 'Key', widget: 'relation', collection: 'exercises', search_fields: ["title", "key"], value_field: "key", display_fields: ["title", "key"]}
-    ],
-    // Pattern to identify a block as being an instance of this component
-    pattern: /^\{% include exercise key=\"(\S+)\" %\}$/,
-    // Function to extract data elements from the regexp match
-    fromBlock: function(match) {
-      console.log(match);
-      return {
-        key: match[1]
-      };
-    },
-    // Function to create a text block from an instance of this component
-    toBlock: function(obj) {
-      return '{% include exercise key="' + obj.key + '" %}';
-    },
-    // Preview output for this component. Can either be a string or a React component
-    // (component gives better render performance)
-    toPreview: function(obj) {
-      return (
-        '<p>Exercise: ' + obj.key + '</p>'
-      );
-    }
-  });
-  CMS.registerEditorComponent({
-    // Internal id of the component
     id: "figure",
     // Visible label
     label: "Figure",
@@ -196,37 +137,6 @@
     toPreview: function(obj) {
       return (
         '<figure><img src="' + obj.image_path + '" alt="' + obj.alt + '"><caption>' + obj.caption + '</caption></figure>'
-      );
-    }
-  });
-  CMS.registerEditorComponent({
-    // Internal id of the component
-    id: "abbr",
-    // Visible label
-    label: "Abbrevation",
-    // Fields the user need to fill out when adding an instance of the component
-    fields: [
-      {name: 'abbr', label: 'Abbrevation', widget: 'string'},
-      {name: 'meaning', label: 'Meaning', widget: 'string'}
-    ],
-    // Pattern to identify a block as being an instance of this component
-    pattern: /^\*\[(\S*)\]: (.*)\r?\n$/,
-    // Function to extract data elements from the regexp match
-    fromBlock: function(match) {
-      return {
-        abbr: match[1],
-        meaning: match[2]
-      };
-    },
-    // Function to create a text block from an instance of this component
-    toBlock: function(obj) {
-      return '*[' + obj.abbr + ']: ' + obj.meaning;
-    },
-    // Preview output for this component. Can either be a string or a React component
-    // (component gives better render performance)
-    toPreview: function(obj) {
-      return (
-        '*[' + obj.abbr + ']: ' + obj.meaning
       );
     }
   });
