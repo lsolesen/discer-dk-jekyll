@@ -14,22 +14,22 @@ ads: false
 future: false
 
 # Site Settings
-email                    : "lars@motionsplan.dk"
+email                    : "lars@discer.dk"
 locale                   : "da"
 title                    : "Discer"
 title_separator          : false # '-' # false # ""
 subtitle                 : "Alt om discgolf, ultimate og frisbeesport"
 name                     : "Discer"
 description              : "Alt om discgolf, ultimate og frisbeesport."
-url                      : "https://www.motionsplan.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.discer.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "motionsplan/motionsplan-dk-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "lsolesen/discer-dk-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/android-chrome-192x192.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "custom" # false # "custom" # false # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # "custom" # false # "custom" # false # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : "motionsplan-dk"
   graphcomment:
@@ -65,11 +65,11 @@ yandex_site_verification : c7c90c6d780c629d
 
 # Social Sharing
 twitter:
-  username               : "motionsplan"
+  username               : ""
 facebook:
-  username               : "motionsplan"
-  app_id                 : 145274118551
-  publisher              : https://www.facebook.com/motionsplan
+  username               : ""
+  app_id                 : 
+  publisher              : https://www.facebook.com/discer
 og_image                 : # Open Graph/Twitter default site image
 
 # For specifying social profiles
@@ -78,10 +78,8 @@ social:
   type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.facebook.com/motionsplan"
-    - "https://twitter.com/motionsplan"
-    - "https://www.pinterest.dk/motionsplan/"
-    - "https://www.instagram.com/motionsplan/"
+    - https://www.facebook.com/profile.php?id=100088882583481
+    - https://www.pinterest.dk/discerdk/
 
 
 # Site search
@@ -99,14 +97,13 @@ analytics:
 
 footer:
   links:
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      webslides: "fa-facebook-official"
-#      url: "https://facebook.com/motionsplan"
-#    - label: "Pinterest"
-#      icon: "fab fa-fw fa-pinterest"
-#      webslides: "fa-pinterest"
-#      url: "https://www.pinterest.dk/motionsplan/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      webslides: "fa-facebook-official"
+      url: "https://www.facebook.com/profile.php?id=100088882583481"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.dk/discerdk/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      webslides: "fa-instagram"
@@ -131,22 +128,22 @@ footer:
 # Site Author
 author:
   name: "Discer"
-  bio: "Viden om frisbeesporten, discgolf og ultimate."
+  bio: "Vi skriver om frisbeesporten, discgolf og ultimate. Vi dykker ned i de mange forskellige aktiviteter du kan bruge en frisbee til."
   avatar: "/android-chrome-192x192.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lars@motionsplan.dk"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      url: "https://www.facebook.com/motionsplan"
+      url: "mailto:lars@discer.dk"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      webslides: "fa-facebook-official"
+      url: "https://www.facebook.com/profile.php?id=100088882583481"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/motionsplan"
-#    - label: "Pinterest"
-#      icon: "fab fa-fw fa-pinterest"
-#      webslides: "fa-pinterest"
-#     url: "https://www.pinterest.dk/motionsplan/"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.dk/discerdk/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      webslides: "fa-instagram"
