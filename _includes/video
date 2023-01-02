@@ -10,6 +10,7 @@
 {% if video_provider == "vimeo" %}
   <iframe src="https://player.vimeo.com/video/{{ video_id }}?dnt=true" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen loading="lazy"></iframe>
 {% elsif video_provider == "youtube" %}
+  {% comment %}
   <div class="youtube-container" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
     <div class="youtube-player" data-id="{{ video_id }}">
       <meta itemprop="name" content="{{ page.title }}" />
@@ -23,9 +24,9 @@
       </a>
     </div>
   </div>
-  {% comment %}
-    <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
-  {% endcomment %}
+  
+  {% endcomment %}  
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/{{ video_id }}?autoplay=1><img src=https://img.youtube.com/vi/{{ video_id }}/hqdefault.jpg loading='lazy' alt='video til {{ page.title }}'><span>▶</span></a>" frameborder="0" allowfullscreen loading="lazy" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Video til {{ page.title }}"></iframe>
 {% elsif video_provider == "google-drive" %}
   <iframe src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" allowfullscreen loading="lazy"></iframe>
 {% elsif video_provider == "wistia-net" %}

@@ -9,9 +9,10 @@ header:
   teaser: https://images.unsplash.com/photo-1655161918612-4d6ba1a14825?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 category:
+  - Discgolf
   - Udstyr
 tags:
-  - hund
+  - discgolf
 last_modified_at: 2022-12-31T10:21:26Z
 faq:
   - question: Hvor mange disctyper findes der?
