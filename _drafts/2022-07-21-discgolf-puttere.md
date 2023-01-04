@@ -1,15 +1,17 @@
 ---
-title: &title "Frisbee til hunde: Hvilken discs kan jeg bruge med min hund?"
+title: &title "Disc golf putter: Vælg den rigtige disc tæt på kurven"
+seo_title: "Discgolf putter: 3 gode puttere til tæt på kurven"
 excerpt: ""
 permalink: /discgolf-putter/
 language: da
 header:
-  teaser: https://images.unsplash.com/photo-1582726739857-c1945f243b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODJ8fGZyaXNiZWV8ZW58MHx8MHx8&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1655161917614-5088a9a7a26d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 category:
   - Udstyr
 tags:
-  - hund
+  - frisbee
+  - putter
 last_modified_at: 2022-07-21T10:21:26Z
 faq:
   - question: Hvor mange disctyper findes der?
@@ -20,7 +22,7 @@ faq:
     answer: En golfdiscs stabilitet refererer til discens flyveegenskaber. Hvis du laver et højrehåndet baghåndskast med høj hastighed, så vil en understabil disc have en tendens til at dreje lidt mod højre i starten. En stabil disc vil flyve mere lige ud. En overstabil disc vil trække mod venstre i starten både ved høj og lav udgangshastighed. Det har særligt betydning for discens svæveegenskaber, da de fleste discs vil fade lidt mod venstre til sidst.
 ---
 
-Disc golf putter
+
 En disc golf er en form for frisbee golf, hvor spillerne kaster en skive mod et mål, typisk en metalkurv eller en stang. Målet er at gennemføre banen på færrest mulige kast. Discgolf skiver findes i forskellige former og størrelser med variationer for afstand, nøjagtighed og kontrol. De er lavet af plastik og har en større kant end traditionelle frisbees for at give dem mere stabilitet under flyvning. Disc golf er blevet mere og mere populært siden opfindelsen i 1970’erne, og der er opstået baner over hele verden og endda blevet afholdt professionelle turneringer. Det er en billig og let tilgængelig sport for alle aldre og evner. Så snup en disc og tag til den nærmeste disc golf bane for at have det sjovt udendørs!
 
 Top 3 bedste disc golf puttere
