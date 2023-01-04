@@ -11,7 +11,7 @@ category:
 tags:
   - frisbee
 last_modified_at: 2023-04-01T10:21:26Z
-toc: true
+toc: false
 ---
 
 Hvordan staver du egentlig til frisbee? Og hvad kan du kalde den flyvende skive, som du kan bruge til så mange fantastiske aktiviteter?
