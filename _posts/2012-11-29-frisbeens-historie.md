@@ -3,7 +3,10 @@ title: Frisbeens historie
 seo_title: Frisbeens historie - Fra tærteform til moderne golfdiscs 
 excerpt: Her får du en grundig gennemgang af frisbeens historie og udvikling fra tærteform til den moderne discs, som bruges til discgolf, ultimate og andre sportsgrene med frisbee.
 permalink: /historie/
-categories: blog
+category:
+  - Blog
+tags:
+  - frisbeehistorie
 modified: 2012-12-01
 header:
   teaser: /assets/images/history/frisbee-history.jpg

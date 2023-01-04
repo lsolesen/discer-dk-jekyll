@@ -219,8 +219,8 @@ collections:
           - {label: "Image", name: "image_path", widget: "string"}
           - {label: "Url", name: "url", widget: "string", required: false}
       - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "DD-MM-YYYY", timeFormat: "HH:mm", required: false}
-  - label: "Site options"
-    name: "settings"
+  - label: "Front page"
+    name: "frontpage"
     editor:
       preview: false
     files:
@@ -229,6 +229,10 @@ collections:
         file: "index.html"
         fields: # The fields for each document, usually in front matter
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+          - {label: "Permalink", name: "permalink", widget: "string", required: false}
+          - {label: "SEO Beskrivelse", name: "description", widget: "text",  required: false}
+          - {label: "Excerpt", name: "excerpt", widget: "text",  required: false}
           - {label: "Layout", name: "layout", widget: "select", options: ["splash"], default: "splash"}
           - label: Header
             name: header
@@ -308,6 +312,11 @@ collections:
               - {label: "Image", name: "image_path", widget: "string", required: false}
               - {label: "Url", name: "url", widget: "string", required: false}
           - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "DD-MM-YYYY", timeFormat: "HH:mm", required: false}
+  - label: "Navigation"
+    name: "navigation"
+    editor:
+      preview: false
+    files:
       - label: "Navigation Menu"
         name: nav
         file: "_data/navigation.yml"
