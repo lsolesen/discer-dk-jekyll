@@ -1,7 +1,8 @@
 ---
 title: &title "Disc golf putter: Vælg den rigtige disc tæt på kurven"
-seo_title: "Discgolf putter: 3 gode puttere til tæt på kurven"
+seo_title: "Discgolf putter: 3 gode puttere til tæt på kurven (2023)"
 excerpt: ""
+description: ""
 permalink: /discgolf-putter/
 language: da
 header:
@@ -22,13 +23,20 @@ faq:
     answer: En golfdiscs stabilitet refererer til discens flyveegenskaber. Hvis du laver et højrehåndet baghåndskast med høj hastighed, så vil en understabil disc have en tendens til at dreje lidt mod højre i starten. En stabil disc vil flyve mere lige ud. En overstabil disc vil trække mod venstre i starten både ved høj og lav udgangshastighed. Det har særligt betydning for discens svæveegenskaber, da de fleste discs vil fade lidt mod venstre til sidst.
 ---
 
+I discgolf bruger du forskellige typer discs til de forskellige kast. Når du kommer tæt på kurven har du brug for en putter eller en approach disc.
 
-En disc golf er en form for frisbee golf, hvor spillerne kaster en skive mod et mål, typisk en metalkurv eller en stang. Målet er at gennemføre banen på færrest mulige kast. Discgolf skiver findes i forskellige former og størrelser med variationer for afstand, nøjagtighed og kontrol. De er lavet af plastik og har en større kant end traditionelle frisbees for at give dem mere stabilitet under flyvning. Disc golf er blevet mere og mere populært siden opfindelsen i 1970’erne, og der er opstået baner over hele verden og endda blevet afholdt professionelle turneringer. Det er en billig og let tilgængelig sport for alle aldre og evner. Så snup en disc og tag til den nærmeste disc golf bane for at have det sjovt udendørs!
+Discgolf puttere skal være præcise over korte afstande. Derfor har de en større kant en golfdiscs til at kaste længere afstand, fx drivere og midrange discs.
+
+Frisbee puttere er mere stabile, og derfor flyver de mere lige, hvilket giver dig større nøjagtighed og kontrol. Præcision og kontrol er jo netop det du har brug for på det korte distancer.
+
+Men hvad er en god putter?
+
+
+{% comment %}
+
 
 Top 3 bedste disc golf puttere
 Nedenfor finder du vores bud på de tre bedste disc golf puttere på markedet lige nu. 
-
-Denne artikel indeholder sponsoreret indhold
 
 
 Discraft Z Zone Paul Mcbeth
@@ -100,3 +108,20 @@ Sådan vælger du din putter
 Det kan være svært at skulle finde den rette disc, og hvert eneste kast er forskelligt. Derfor kan det være lidt af en jungle, hvis man blot ønsker at have en disc liggende i sin taske til at kunne udføre alle former for putts.
 
 For at kunne finde ud af hvilken disc, som passer til dig, skal du først fastlægge hvor dit niveau er. Her kan du kvalificere dig i tre klasser i form af: Begynder, Middel og Øvet. Vi ser gerne at du går en en tak op, hvis du befinder dig mellem en af stadierne, da dette kan være med til at tage dig mod næste skridt. Se alle vores disc golf disc anbefalinger på siden.
+
+- Plastiktype som er godt at holde med
+- Tallene på discen
+
+{% endcomment %}
+
+## Sådan vælger du din putter
+
+Det kan være en jungle at vælge den rigtige putter. De fleste vil gerne have en disc, som har et godt greb, som flyver stabilt og nogenlunde lige.
+
+{% picture /assets/images/blog/discgolf-putter-flight-numbers.jpg --alt "Tallenes betydning på en discgolf putter" %}
+
+{% comment %}
+
+Du kan læse mere om tallene på discene i dette indlæg.
+
+{% endcomment %}
