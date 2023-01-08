@@ -31,9 +31,9 @@ words_per_minute         : 200
 comments:
   provider               : false # "custom" # false # "custom" # false # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "motionsplan-dk"
+    shortname            : ""
   graphcomment:
-    id                   : "motionsplan"
+    id                   : ""
 staticman:
   branch                 : "master"
 atom_feed:
@@ -41,9 +41,9 @@ atom_feed:
 
 signup:
   enabled: true
-  provider: mailchimp # false
-  url: https://motionsplan.us2.list-manage.com/subscribe/post?u=c17bb696b7624b69cbd0acaff&amp;id=90126d39b0&amp;f_id=004c40e0f0
-  recaptcha: b_c17bb696b7624b69cbd0acaff_90126d39b0
+  provider: false # mailchimp # false
+  url:
+  recaptcha:
 
 
 # reCaptcha
@@ -68,7 +68,7 @@ twitter:
   username               : ""
 facebook:
   username               : ""
-  app_id                 : 
+  app_id                 :
   publisher              : https://www.facebook.com/discer
 og_image                 : # Open Graph/Twitter default site image
 
