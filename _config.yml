@@ -331,7 +331,12 @@ defaults:
       toc_sticky: false
       author: lsolesen
       sidebar:
-        nav: blog
+        - title: Køb discs
+          text: |
+            [![Discshoppen logo](https://cdn.shopify.com/s/files/1/0614/1421/1733/files/Discshoppen_banner_930x600_ee404e92-312e-4f9b-9472-15c1310ebc60.jpg)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606){: rel="sponsored nofollow noopener" }
+
+            Køb discs med prisgaranti hos Discshoppen
+          nav: blog
   # _pages
   - scope:
       path: ""
