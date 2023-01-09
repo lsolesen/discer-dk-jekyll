@@ -1,0 +1,39 @@
+{% include adsense.html %}
+{% include head/favicon.html %}
+
+{% if page.sitemap == false or page.robots %}
+  <meta name="robots" content="{{ page.robots | default: "noindex" }}">
+{% endif %}
+
+<script>
+// Check compatibility for the browser we're running this in
+if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("[{{ site.title }}] active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("{{ '/pwabuilder-sw.js' | relative_url }}", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[{{ site.title }}] Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+</script>
+
+<script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('a526352a8e1161')
+</script>
