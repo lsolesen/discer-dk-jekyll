@@ -48,8 +48,10 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $max-width;
-    margin: auto;
+    .container {
+      max-width: $max-width;
+      margin: auto;
+    }
   }
 
   .page__hero--overlay {
