@@ -5,7 +5,7 @@
 {% assign submit = include.submit | default: site.signup.cta_label | default: "Tilmeld" %}
 {% assign button = site.signup.cta_class | default: "danger" %}
 
-{% if signup_url %}
+{% if signup_url != "" and page.signup != false %}
 
 <!-- Begin Mailchimp Signup Form -->
 <aside id="mc_embed_signup">

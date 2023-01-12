@@ -59,6 +59,7 @@ Du kan læse mere om [Discgolf Metrix Rating her](https://discgolfmetrix.com/?u=
 I Discgolf Metrix er der imidlertid en genvej til alligevel at bruge handicaps, hvis du bruger et bestemt pointsystem i en turnering med flere runder. Det har jeg beskrevet nedenunder, for det var netop sådan en feature, jeg var på udkig efter.
 
 ## Rating kan bruges til udregning af handicap
+
 Du kan bruge de to ratings systemer til at udregne handicap, som du kan bruge, når du spiller. Hvordan du gør det bør du læse på de pågældende hjemmesider.
 
 Min udfordring var jo at finde ud af, hvordan vi kan bruge handicap, når folk ikke har spillet så meget, men er på vidt forskelligt niveau.

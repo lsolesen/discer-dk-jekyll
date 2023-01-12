@@ -17,7 +17,6 @@
     "url": "https://github.com/motionsplan/motionsplan-dk-jekyll/issues"
   },
   "dependencies": {
-    "image-map-resizer": "^1.0"
   },
   "devDependencies": {
     "gray-matter": "^4.0",
