@@ -12,3 +12,6 @@ main:
     url: /blog/
   - title: "Om"
     url: /om/
+blog:
+  - title: "Blog"
+    url: /blog/
