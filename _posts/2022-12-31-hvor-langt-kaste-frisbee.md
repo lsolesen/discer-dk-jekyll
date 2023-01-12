@@ -11,19 +11,13 @@ category:
 tags:
   - sport
 faq:
-  - question: Hvad er de bedste discs for en begynder?
-    answer: Hvis du er ny i discgolf-sporten, så vil du gerne have nogle golfdiscs,
-      som er lette at kaste med. Du bør vælge en relativt let disc på 165-180
-      gram, som er understabil (dvs. har et lavt _turn_-tal). Vi har skrevet en
-      [guide til at vælge disc](/golfdisc-til-discgolf/).
-  - question: Hvad betyder udtrykkene overstabil, stabil og understabil?
-    answer: En golfdiscs stabilitet refererer til discens flyveegenskaber. Hvis du
-      laver et højrehåndet baghåndskast med høj hastighed, så vil en understabil
-      disc have en tendens til at dreje lidt mod højre i starten. En stabil disc
-      vil flyve mere lige ud. En overstabil disc vil trække mod venstre i
-      starten både ved høj og lav udgangshastighed. Det har særligt betydning
-      for discens svæveegenskaber, da de fleste discs vil fade lidt mod venstre
-      til sidst.
+  - question: Hvilken frisbee kan du kaste længst med?
+    answer: Den frisbee du kan kaste allerlængst med er en Flying Ring. Det er ikke
+      en rigtig frisbee, men den kan flyve utrolig langt.
+  - question: Hvilken golf disc er der kastet længst med?
+    answer: Innova Blizzard Boss er i øjeblikket den golfdisc, der er kastet
+      allerlængst med. David Wiggins kastede hele 338 meter under helt ideelle
+      vindforhold i 2016.
 last_modified_at: 2022-07-21T10:21:26.000Z
 language: da
 ---
@@ -41,10 +35,13 @@ Distancerekorder med en golfdisc og en frisbee er følgende:
 | Ken Jarvis          | Teebird  | 2002   | Innova    | 247 m    |
 | Christian Sandström | Valkyrie | 2002   |           | 250  m   |
 | David Wigins        |          | 2012   |           | 255 m    |
+| David Wigins Jr     | Boss     | 2016   | Innova    | 338 m    |
 
-Jeg har i hvert fald en del, jeg skal have øvet på for at komme i nærheden af de rekorder. Og jeg har prøvet at kaste med alle de forskellige frisbees.
+J﻿eg skal i hvert fald i gang med at øve mig, hvis jeg skal i nærheden af de rekorder. De er naturligvis sat under optimale vejr- og vindforhold, men det er godt nok langt.
 
-## Længste drive i verden
+O﻿g jeg har prøvet at kaste med mange forskellige frisbees.
+
+## Længste drive i verden med frisbee
 
 {% include video provider="youtube" id="joW8GkcnaMk" %}
 
