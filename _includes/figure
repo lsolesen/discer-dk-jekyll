@@ -3,7 +3,9 @@
   {% picture "{{ include.image_path }}" --alt "{{ include.alt | default: page.title }}" %}
   {% else %}
   <img src="{{ include.image_path | relative_url }}"
-       alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+    width="{{ include.image_path | relative_url | image_size: 'w' }}"
+    height="{{ include.image_path | relative_url | image_size: 'h' }}"
+    alt="{% if include.alt %}{{ include.alt }}{% endif %}">
   {% endunless %}
   {%- if include.caption -%}
     <figcaption>

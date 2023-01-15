@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
 gem "liquid-c"
+gem "fastimage"
 group :jekyll_plugins do
     gem 'jekyll-paginate'
     gem 'jekyll-feed'
