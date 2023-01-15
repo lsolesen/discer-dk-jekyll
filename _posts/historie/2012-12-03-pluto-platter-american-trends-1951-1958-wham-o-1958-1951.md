@@ -6,10 +6,8 @@ modified: 2012-12-03
 header:
   teaser: /assets/images/history/flying_saucer.jpg
   image: /assets/images/history/flying_saucer.jpg
-  caption: "Foto: Johnny Lillelund"
+  caption: "Her på billedet ses Wham-O's Flying Saucer som næsten er identisk med Pluto Platter. Foto: Johnny Lillelund"
 ---
-
-**Her på billedet ses Wham-O's Flying Saucer som næsten er identisk med Pluto Platter.**
 
 I starten af 50'erne designede Morrison en ny disc, Pluto Platter som han solgte via hans nye firma American Trends. Karakteristisk for Pluto Platter er navnene på de 9 planeter (Pluto var stadig en planet) og solen samt den forhøjede cupola med små runde vinduer som på en flyvende tallerken – UFOmanien er stadig tydelig.
 
