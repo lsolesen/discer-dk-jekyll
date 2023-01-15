@@ -17,8 +17,7 @@ feature_row:
     excerpt: På DFSU's hjemmeside kan du finde en gennemgang af Ultimate Frisbee,
       hvad man skal bruge for at komme i gang og en kort introduktion til Spirit
       of the Game.
-    url: På denne side finder du en gennemgang af spillets forløb, hvad man skal
-      bruge for at komme i gang og en kort introduktion til Spirit of the Game.
+    url: https://dfsu.dk/ultimate-i-skolen/gymnasie/
     btn_label: Hent kompendium
     btn_class: btn--info
 faq:
