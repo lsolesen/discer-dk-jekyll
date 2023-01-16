@@ -136,7 +136,7 @@ Her kan du se en kort forklaring af de enkelte pointsystemer, som du kan vælge 
 
 Du kan vælge dit pointsystem, når du redigerer din turnering. Her har jeg valgt WeeklyHC, som kun kræver, at der er spillet på banerne.
 
-{% include figure image_path="/assets/images/blog/discgolf-metrix-handicap-2.png" alt="I Discgolf Metrix kan du vælge et handicapbaseret pointsystem til din turnering" caption="handicap i discgolf metrix turnering" %}
+{% include figure image_path="/assets/images/blog/discgolf-metrix-handicap-2.png" caption="I Discgolf Metrix kan du vælge et handicapbaseret pointsystem til din turnering" alt="handicap i discgolf metrix turnering" %}
 
 Denne metode kan dog kun bruges, hvis du har alle dine spillere til at deltage i den samme turnering hen over flere runder. Du kan ikke bare lave et enkeltstående arrangement, hvor folk kommer ind og spiller. Der har de brug for en rating for at kunne dyste på lige vilkår.
 

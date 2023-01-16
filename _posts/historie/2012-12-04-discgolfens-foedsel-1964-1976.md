@@ -17,7 +17,7 @@ Headrick grundlægger International Frisbee Association (IFA) i 1967. I 1975 ops
 
 Ed Headrick betegnes i dag som disc golf sportens ”fader”.
 
-{% picture "/assets/images/history/ed-headrick-frisbee-putting-mach1-basket2.jpg" ---alt Ed Headrick %}
+{% include figure image_path="/assets/images/history/ed-headrick-frisbee-putting-mach1-basket2.jpg" alt="Ed Headrick" %}
 
 {% comment %}https://discgolf.com/disc-golf-education-development/ed-headrick-father-disc-golf/{% endcomment %}
 

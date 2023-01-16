@@ -17,13 +17,13 @@ Inspireret af børns leg med tærteforme og paptallerkner, forsøgte de at lave 
 
 Snart investerede Morrison og Franscioni i en sprøjtestøbeform og grundlagde deres virksomhed Pipco (Partners In Plastic Company) for i 1948 at producere The Arcuate vane model – den første disc.
 
-{% picture "/assets/images/history/arcuate_vane_model.jpg" %}
+{% include figure image_path="/assets/images/history/arcuate_vane_model.jpg" alt="Arcuate Vane Model" %}
 
 Kort forinden blev den amerikanske befolkning chokeret, da en pilot rapporterede om et tallerkenformet flyvende objekt over Cascade Mountains og Roswell affæren i1947, hvor øjenvidner fortalte om en nedstyrtet UFO med besætning, skabte nærmest en UFOmani. Aviserne havde skabt navnet flying saucer/flyvende tallerken - et oplagt valg til Pipcos disc.
 
 Discen blev solgt på markedspladser. Når de demonstrerede, hvordan den kunne flyve, troede nogle tilskuere, at der var en usynlig snor forbundet til discen. Dette fik Morrison til at tilbyde kunderne discen gratis, hvis de betalte 1 dollar for den usynlige snor. Også i Disneyland blev discen solgt. Her blev demonstrationerne imidlertid stoppet, efter et sagsanlæg fra en kvinde der blev ramt i hovedet.
 
-{% picture "/assets/images/history/lil_abner.jpg" %}
+{% include figure image_path="/assets/images/history/lil_abner.jpg" alt="Lil Abner" %}
 
 Senere samme år lancerede Pipco deres disc med en Li'l Abner label på.
 
