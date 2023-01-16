@@ -32,6 +32,7 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
     fast-stemmer (1.0.2)
+    fastimage (2.2.6)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     gemoji (4.0.1)
@@ -168,6 +169,7 @@ PLATFORMS
 
 DEPENDENCIES
   classifier-reborn
+  fastimage
   gsl!
   html-proofer
   jekyll (~> 4.3)
