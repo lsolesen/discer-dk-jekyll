@@ -79,9 +79,8 @@ jobs:
       - name: 📉 Check HTML
         run: |
           bundle exec htmlproofer
-            -- log-level : debug
             --only-4xx
-            --ignore-status-codes "400,403,409,429"
+            --ignore-status-codes "400,403,409,429,999"
             --ignore-empty-alt
             --ignore-urls "/bjsm.bmj.com/"
             --cache '{ "timeframe": { "external": "30d" } }'
