@@ -78,7 +78,7 @@ jobs:
           key: ${{ runner.os }}-${{ github.sha }}
       - name: 📉 Check HTML
         run: |
-          bundle exec htmlp,roofer
+          bundle exec htmlproofer
             -- log-level : debug
             --only-4xx
             --ignore-status-codes "400,403,409,429"
