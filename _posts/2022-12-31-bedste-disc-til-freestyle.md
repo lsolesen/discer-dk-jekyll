@@ -20,12 +20,10 @@ feature_row:
     btn_label: Gå til butik
     btn_class: btn--info
 faq:
-  - question: Hvad er de bedste discs for en begynder?
-    answer: Hvis du er ny i discgolf-sporten, så vil du gerne have nogle golfdiscs, som er lette at kaste med. Du bør vælge en relativt let disc på 165-180 gram, som er understabil (dvs. har et lavt _turn_-tal). Vi har skrevet en [guide til at vælge disc](/golfdisc-til-discgolf/).
-  - question: Hvad betyder udtrykkene overstabil, stabil og understabil?
-    answer: En golfdiscs stabilitet refererer til discens flyveegenskaber. Hvis du laver et højrehåndet baghåndskast med høj hastighed, så vil en understabil disc have en tendens til at dreje lidt mod højre i starten. En stabil disc vil flyve mere lige ud. En overstabil disc vil trække mod venstre i starten både ved høj og lav udgangshastighed. Det har særligt betydning for discens svæveegenskaber, da de fleste discs vil fade lidt mod venstre til sidst.
-  - question: Hvad betyder hyzer og anhyzer?
-    answer: Hyzer og anhyzer er en betegnelse for den hældning golfdiscen har, når du kaster den. I et _hyzer_ højrehåndet baghåndskast vender den venstre kant af frisbeen nedad. Det gør, at frisbeen vil dreje endnu mere mod venstre til sidst i kastet. I et _anhyzer_ kast vender den venstre kant opad, hvilket vil få frisbeen til at gå mod højre i starten af kastet.
+  - question: Kan du bruge en golfdisc til freestyle?
+    answer: Nej. Du kan sikkert godt lave tricks med en golfdisc, men du får en meget bedre oplevelse, hvis du køber en af de officielle discs. Du kan tjekke voers [guide til golfdiscs](/golfdisc-til-discgolf/).
+  - question: Hvad er den bedste freestyle disc?
+    answer: Det er Discraft Sky-Styler.
 ---
 
 Der findes mange forskellige frisbees, og du kan lave tricks og freestyle med alle sammen. Men der er alligevel nogle discs der skiller sig særligt ud.

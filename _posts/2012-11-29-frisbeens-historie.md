@@ -45,8 +45,9 @@ I gennemgangen er desuden medtaget alle discs der på et tidspunkt har været br
 <details markdown="1">
   <summary>Se referencer</summary>
 
-- Johnny Lillelunds billeder og skrift til [discimport.com](https://discimport.com).
-- [www.discgolfsweden.se](https://www.discgolfsweden.se)
-- [www.wfdf.sport](https://www.wfdf.sport)
-- [www.frisbeerecords.com](https://web.archive.org/web/20210609080545/http://www.frisbeerecords.com/index.htm){: rel="noopener nofollow" }
-</details>
+* Johnny Lillelunds billeder og skrift til [discimport.com](https://discimport.com).
+* [www.discgolfsweden.se](https://www.discgolfsweden.se)
+* [www.wfdf.sport](https://www.wfdf.sport)
+* [www.frisbeerecords.com](https://web.archive.org/web/20210609080545/http://www.frisbeerecords.com/index.htm){: rel="noopener nofollow" }
+
+<﻿/details>

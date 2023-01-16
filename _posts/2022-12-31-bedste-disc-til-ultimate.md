@@ -20,10 +20,8 @@ feature_row:
     btn_label: Gå til butik
     btn_class: btn--info
 faq:
-  - question: Hvad er de bedste discs for en begynder?
-    answer: Hvis du er ny i discgolf-sporten, så vil du gerne have nogle golfdiscs, som er lette at kaste med. Du bør vælge en relativt let disc på 165-180 gram, som er understabil (dvs. har et lavt _turn_-tal). Vi har skrevet en [guide til at vælge disc](/golfdisc-til-discgolf/).
-  - question: Hvad betyder udtrykkene overstabil, stabil og understabil?
-    answer: En golfdiscs stabilitet refererer til discens flyveegenskaber. Hvis du laver et højrehåndet baghåndskast med høj hastighed, så vil en understabil disc have en tendens til at dreje lidt mod højre i starten. En stabil disc vil flyve mere lige ud. En overstabil disc vil trække mod venstre i starten både ved høj og lav udgangshastighed. Det har særligt betydning for discens svæveegenskaber, da de fleste discs vil fade lidt mod venstre til sidst.
+  - question: Kan du spille ultimate med golfdiscs?
+    answer: Du kan ikke bruge golfdiscs til ultimate frisbee. Du skal have fat i en frisbee, som har en højere kant, så den er mere behagelig at gribe. Du kan læse mere om de [forskellige egenskaber for golfdiscs](/golfdisc-til-discgolf/).
   - question: Hvad betyder hyzer og anhyzer?
     answer: Hyzer og anhyzer er en betegnelse for den hældning golfdiscen har, når du kaster den. I et _hyzer_ højrehåndet baghåndskast vender den venstre kant af frisbeen nedad. Det gør, at frisbeen vil dreje endnu mere mod venstre til sidst i kastet. I et _anhyzer_ kast vender den venstre kant opad, hvilket vil få frisbeen til at gå mod højre i starten af kastet.
 ---
@@ -55,3 +53,7 @@ Sky-Pro fungerer også rigtig godt til lege på stranden, hvor der er risiko for
 Den officielle disc til ultimate er efterhånden en klassiker! Uanset om du har brug for en rigtig god frisbee til leg i haven eller er du vil prøve kræfter med ultimate-sporten, så anbefaler vi denne disc.
 
 Start med Ultrastar, og du vil ikke fortryde dit køb!
+
+## Ofte stillede spørgsmål
+
+{% include faq.html %}
