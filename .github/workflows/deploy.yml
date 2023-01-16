@@ -86,11 +86,11 @@ jobs:
             --ignore-urls "/bjsm.bmj.com/"
             --cache '{ "timeframe": { "external": "30d" } }'
             _site 2> links.log
-        - name: Archive checker log 🗄
-          uses: actions/upload-artifact@v1
-          with:
-            name: links-check.log
-            path: links.log
+      - name: Archive checker log 🗄
+        uses: actions/upload-artifact@v1
+        with:
+          name: links-check.log
+          path: links.log
   deploy:
     if: github.event_name == 'push'
     name: deploy
