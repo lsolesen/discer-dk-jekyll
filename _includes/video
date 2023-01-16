@@ -11,7 +11,7 @@
   <iframe src="https://player.vimeo.com/video/{{ video_id }}?dnt=true" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen loading="lazy"></iframe>
 {% elsif video_provider == "youtube" %}
   {% comment %}
-  <div class="youtube-container" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+  <div class="youtube-container" itemprop="video" itemscope itemtype="https://schema.org/VideoObject">
     <div class="youtube-player" data-id="{{ video_id }}">
       <meta itemprop="name" content="{{ page.title }}" />
       <meta itemprop="thumbnailURL" content="https://i.ytimg.com/vi/{{ video_id }}/default.jpg">
