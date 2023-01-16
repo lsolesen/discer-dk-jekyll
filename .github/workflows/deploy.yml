@@ -123,7 +123,7 @@ jobs:
             --ignore-empty-alt
             --ignore-urls "/bjsm.bmj.com/"
             --cache '{ "timeframe": { "external": "30d" } }'
-            ./_site
+            _site
   clean:
     needs: [build,deploy,test]
     runs-on: ubuntu-latest
