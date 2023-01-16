@@ -76,21 +76,6 @@ jobs:
         with:
           path: "_site/"
           key: ${{ runner.os }}-${{ github.sha }}
-      - name: 📉 Check HTML
-        run: |
-          bundle exec htmlproofer
-            --only-4xx
-            --ignore-status-codes "400,403,409,429,999"
-            --ignore-empty-alt
-            --ignore-urls "/bjsm.bmj.com/"
-            --cache '{ "timeframe": { "external": "30d" } }'
-            ./_site/
-      - name: ⚡️ Cache HTMLProofer
-        id: cache-htmlproofer
-        uses: actions/cache@v2
-        with:
-          path: tmp/.htmlproofer
-          key: ${{ runner.os }}-htmlproofer
   deploy:
     if: github.event_name == 'push'
     name: deploy
@@ -110,3 +95,41 @@ jobs:
           build_dir: _site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
+      - name: ⚡️ Cache HTMLProofer
+        id: cache-htmlproofer
+        uses: actions/cache@v2
+        with:
+          path: tmp/.htmlproofer
+          key: ${{ runner.os }}-htmlproofer
+      - name: 📉 Check HTML
+        uses: chabad360/htmlproofer@master
+        with:
+          directory: "./_site"
+          # The directory to scan
+          arguments: |
+            --only-4xx
+            --ignore-status-codes "400,403,409,429"
+            --ignore-empty-alt
+            --ignore-urls "/bjsm.bmj.com/"
+            --cache '{ "timeframe": { "external": "30d" } }'
+          # The arguments to pass to HTMLProofer
+  clean:
+    needs: [build,deploy,test]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
+      - name: ☁️ Cleaning up
+        run: bundle exec jekyll clean
