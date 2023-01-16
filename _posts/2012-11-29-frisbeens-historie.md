@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/history/frisbee-history.jpg
   image: /assets/images/history/frisbee-history.jpg
   caption: "Foto:
-    [Wham-O](http://www.history.com/this-day-in-history/toy-company-wham-o-prod\
+    [Wham-O](https://www.history.com/this-day-in-history/toy-company-wham-o-prod\
     uces-first-frisbees)"
 category:
   - Blog
@@ -50,4 +50,4 @@ I gennemgangen er desuden medtaget alle discs der på et tidspunkt har været br
 * [www.wfdf.sport](https://www.wfdf.sport)
 * [www.frisbeerecords.com](https://web.archive.org/web/20210609080545/http://www.frisbeerecords.com/index.htm){: rel="noopener nofollow" }
 
-<﻿/details>
+</details>
