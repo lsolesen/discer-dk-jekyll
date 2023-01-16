@@ -95,25 +95,6 @@ jobs:
           build_dir: _site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  test:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: ⚡️ Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev minify liblapacke-dev libopenblas-dev libvips libvips-tools libvips-dev
-          sudo gem install bundler:${{ env.BUNDLER_VERSION }}
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - name: Use cache
-        uses: actions/cache@v3
-        with:
-          path: "_site/"
-          key: ${{ runner.os }}-${{ github.sha }}
       - name: ⚡️ Cache HTMLProofer
         id: cache-htmlproofer
         uses: actions/cache@v2
@@ -129,10 +110,6 @@ jobs:
             --ignore-urls "/bjsm.bmj.com/"
             --cache '{ "timeframe": { "external": "30d" } }'
             _site
-  clean:
-    needs: [build,deploy,test]
-    runs-on: ubuntu-latest
-    steps:
       - name: Use cache
         uses: actions/cache@v3
         with:
