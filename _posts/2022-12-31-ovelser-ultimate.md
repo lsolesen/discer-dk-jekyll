@@ -20,6 +20,12 @@ feature_row:
     url: https://dfsu.dk/ultimate-i-skolen/gymnasie/
     btn_label: Hent kompendium
     btn_class: btn--info
+  - image_path: /assets/images/freebies/ultimate-kompendium.jpg
+    title: Ultimate - en introduktion
+    excerpt: DFSU har også lavet dette glimrende kompendium til undervisning i Ultimate Frisbee. Der er også rigtig mange gode øvelser og forklaringer.
+    url: /assets/pdf/ultimate-kompendium.pdf
+    btn_label: Hent kompendium
+    btn_class: btn--info
 faq:
   - question: Hvad er de bedste frisbee til ultimate?
     answer: Den bedste frisbee til ultimate er helt sikkert en Discraft Ultrastar.
@@ -27,7 +33,7 @@ faq:
       oplevelse med Ultrastaren. Læs mere i vores indlæg om [den bedste disc til
       Ultimate](/bedste-frisbee-til-ultimate/).
   - question: Hvad er reglerne i ultimate?
-    answer: Her på siden kan du læse alt om ultimate frisbee. Vi gennemgår også
+    answer: Her på siden kan du læse alt om [ultimate frisbee](/ultimate/). Vi gennemgår også
       reglerne.
 last_modified_at: 2022-07-21T10:21:26.000Z
 language: da
