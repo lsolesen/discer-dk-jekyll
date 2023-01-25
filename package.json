@@ -46,6 +46,6 @@
     "pinterest-images": "npm run generate-image -- type:pinterest path:./_posts/",
     "instagram-image": "npm run generate-image -- type:instagram",
     "instagram-images": "npm run generate-image -- type:instagram path:./_posts/",
-    "test:html": "bundle exec htmlproofer _site --only-4xx true --ignore-status-codes \"400,403,409,429\" --ignore-empty-alt true --ignore-urls \"/bjsm.bmj.com/\" --cache '{ \"timeframe\": { \"external\": \"30d\" } }'"
+    "test:html": "bundle exec htmlproofer _site --only-4xx true --ignore-status-codes \"400,403,409,429\" --ignore-empty-alt true --cache '{ \"timeframe\": { \"external\": \"30d\" } }'"
   }
 }
