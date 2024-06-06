@@ -117,7 +117,7 @@ Du kan bruge din viden om discens stabilitet til følgende, når du spiller:
 
 Hvilken putter du skal vælge afhænger meget er personlige præferencer. Hvis du bruger din putter over længere afstande, så skal du naturligvis tage højde for stabiliteten også. 
 
-Der er rigtig mange forskellige populære puttere. [Aviar](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606&htmlurl=https://discshoppen.dk/products/innova-dx-classic-aviar){: rel="sponsored nofollow noopener" } fra det velkendte mærke Innova er en af de populære puttere, men der findes også mange [andre modeller](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606&htmlurl=https://discshoppen.dk/collections/disc-golf-puttere-approach){: rel="sponsored nofollow noopener" }.
+Der er rigtig mange forskellige populære puttere. Aviar fra det velkendte mærke Innova er en af de populære puttere, men der findes også mange andre modeller.
 
 Mikael Birkelund Jensen-Johansen fra [Discimport](https://discimport.com/) anbefaler fx også modellerne Pure, P2, Rainmaker, Luna og Link, hvis du gerne vil have en god og træfsikker putter.
 
@@ -163,7 +163,6 @@ Jeg anbefaler derfor **nybegyndere at vælge lette, understabile discs**. Der fi
 Discgolfsporten er i rivende udvikling. Det betyder, at der er mange forhandlere af golfdiscs. Du kan købe frisbees i både købe sportsbutikker, dedikerede butikker til sporten og online.
 
 - **Discimport.dk** var den første onlineshop til frisbees og discgolf. For nylig har de udvidet med fysiske butikker også. Du kan læse mere på [discimport.com](https://discimport.com/).
-- **Discshoppen.dk** er en anden onlinebutik, hvor du kan købe udstyr til frisbeesporten. Tjek deres [hjemmeside](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606){: rel="sponsored nofollow noopener" }. Hvis du har brug for et stort udvalg, så skal du dog vælge Discimport.dk.
 
 Læs: [Online butikker med discgolf som speciale](/discgolf-butikker/)
 

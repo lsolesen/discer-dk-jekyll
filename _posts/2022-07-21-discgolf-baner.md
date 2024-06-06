@@ -113,7 +113,6 @@ Når du har fået fat i nogle discs, så er det også meget rart at vide, hvilke
 Discgolfsporten er virkelig blomstret de seneste år. Nu kan du både købe golfdiscs i sportsbutikker, dedikerede butikker til sporten og online.
 
 - **Discimport.dk** var den første onlineshop til frisbees og discgolf i Danmark. For nylig har de udvidet med fysiske butikker også. Du kan læse mere på [discimport.dk](https://discimport.dk/).
-- **Discshoppen.dk** er en anden onlinebutik, hvor du kan købe udstyr til frisbeesporten. Tjek deres [hjemmeside](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606){: rel="sponsored nofollow noopener" }. Hvis du har brug for et stort udvalg, så skal du dog vælge Discimport.dk.
 
 Læs: [Find de bedste discgolf og frisbee forhandlere i Danmark](/discgolf-butikker/)
 

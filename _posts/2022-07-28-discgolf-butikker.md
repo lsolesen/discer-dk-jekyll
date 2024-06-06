@@ -61,14 +61,6 @@ Flyvende har et showroom, hvor du kan få indblik i alt udstyret, og du kan få 
 
 [Besøg Flyvende](https://flyvende.dk/){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
-## 4. Discshoppen
-
-Hos Discshoppen.dk har de et mindre udvalg til Discgolf. De satser på et mindre udvalg, men at alt er af høj kvalitet. 
-
-Discshoppen tilbyder dig **prisgaranti** på produkterne, så hvis de har den rette disc på lager, så kan du roligt handle der.
-
-[Besøg Discshoppen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=94606&htmlurl=https://discshoppen.dk/){: .btn .btn--large .btn--info rel="sponsored nofollow noopener" }
-
 
 {% comment %}
 
