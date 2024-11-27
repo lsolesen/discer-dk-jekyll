@@ -10,7 +10,7 @@ breadcrumbs: true
 
 Discer er et gratis medie for alle brugerne. Der ligger rigtig mange timer bag ved artiklerne og indholdet på sitet.
 
-Discer ejes og drives af Lars Olesen (chefredaktør), som er tidligere medejer af Discimport.dk.
+Discer ejes og drives af Lars Olesen (chefredaktør), som er tidligere medejer af Danmarks største frisbeebutik, Discimport.dk, som fusionerede med Discsport.dk i 2024.
 
 Lars Olesen er cand.scient. og har læst Sundhed og Idræt på Syddansk Universitet. Under studiet fik han øjnene op for ultimate frisbee og senere discgolf. Han har i flere år undervist i discsporten på [Vejle Idrætshøjskole](https://www.vih.dk/).
 

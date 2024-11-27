@@ -17,6 +17,19 @@
     "url": "https://github.com/motionsplan/motionsplan-dk-jekyll/issues"
   },
   "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^5.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "eleventy-plugin-toc": "^1.1.5",
+    "js-yaml": "^4.1.0",
+    "markdown-it-abbr": "^2.0.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-attrs": "^4.2.0",
+    "markdown-it-emoji": "^3.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mark": "^4.0.0",
+    "markdown-it-prism": "^2.3.0"
   },
   "devDependencies": {
     "gray-matter": "^4.0",
@@ -28,14 +41,18 @@
     "sharp": "^0.31",
     "tinify": "^1.6",
     "uglify-js": "^3.17",
-    "unicode-encode": "^1.4"
+    "unicode-encode": "^1.4",
+    "sass": "^1.80.4"
   },
   "scripts": {
-    "test": "bundle exec mocha src/test/*.*",
-    "start": "bundle exec jekyll server --port 8080 --incremental",
-    "lsi": "bundle exec jekyll server --port 8080 --incremental --lsi",
-    "draft": "bundle exec jekyll server --port 8080 --incremental --drafts",
-    "build": "bundle exec jekyll build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "sass --watch assets/css:_site/assets/css",
+    "build:sass": "sass assets/css:_site/assets/css",
+    "watch:eleventy": "eleventy --serve",
+    "build:eleventy": "eleventy",
+    "start": "npm-run-all build:sass --parallel watch:*",
+    "build": "npm-run-all build:*",
+    "build-gh-pages": "ELEVENTY_ENV=production eleventy --pathprefix=/minimal-mistakes/",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify",
     "add-banner": "node _scripts/banner.js",

@@ -29,7 +29,7 @@ I denne artikel vil vi diskutere nogle vigtige faktorer, som du skal overveje, n
 
 {% include figure image_path="https://images.unsplash.com/photo-1655161920449-cd10d9391f44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60" alt="discgolf butikker online" %}
 
-## 1. Discimport
+## 1. Discimport (fusioneret med Discsport.dk i 2024)
 
 Discimport driver både webshop og fysiske butikker i København, Aarhus og Silkeborg. Discimport er så vidt jeg ved den ældste butik med salg af golfdiscs i Danmark. De har eksisteret siden 1999. 
 
@@ -43,7 +43,7 @@ Discimport laver også discgolfbaner, og de har designet baner over hele Danmark
 
 Det er let at finde rundt på Discimports hjemmeside, og hvis du ikke finder det du er på udkig efter, så giv dem et kald. De svarer altid venligt og kyndigt. Desuden har de en fremragende score på Trustpilot.
 
-[Besøg Discimport](https://www.discimport.com/){: .btn .btn--large .btn--danger }
+[Besøg Discsport](https://www.discsport.dk/){: .btn .btn--large .btn--danger }
 
 ## 2. Discconnection
 

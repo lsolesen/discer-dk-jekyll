@@ -1,0 +1,22 @@
+<ul class="taxonomy__index">
+    {% for item in include.taxonomies %}
+        <li>
+          <a href="#{{ item | slugify }}">
+            <strong>{{ item }}</strong> <span class="taxonomy__count">{{ collections[item].size }}</span>
+          </a>
+        </li>
+    {% endfor %}
+</ul>
+
+{% assign entries_layout = entries_layout | default: 'list' %}
+{% for taxonomy in include.taxonomies %}
+    <section id="{{ taxonomy | slugify }}" class="taxonomy__section">
+        <h2 class="archive__subtitle">{{ taxonomy }}</h2>
+        <div class="entries-{{ entries_layout }}">
+          {% for post in collections[taxonomy] %}
+            {% include archive-single.html type=entries_layout %}
+          {% endfor %}
+        </div>
+        <a href="#page-title" class="back-to-top">{{ ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    </section>
+{% endfor %}

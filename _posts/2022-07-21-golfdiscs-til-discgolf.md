@@ -119,7 +119,7 @@ Hvilken putter du skal vælge afhænger meget er personlige præferencer. Hvis d
 
 Der er rigtig mange forskellige populære puttere. Aviar fra det velkendte mærke Innova er en af de populære puttere, men der findes også mange andre modeller.
 
-Mikael Birkelund Jensen-Johansen fra [Discimport](https://discimport.com/) anbefaler fx også modellerne Pure, P2, Rainmaker, Luna og Link, hvis du gerne vil have en god og træfsikker putter.
+Mikael Birkelund Jensen-Johansen som tidligere ejede Danmarks største frisbeebutik Discimport.dk (som i 2024 fusionerede med Discsport.dk) anbefaler fx også modellerne Pure, P2, Rainmaker, Luna og Link, hvis du gerne vil have en god og træfsikker putter.
 
 ## Hvilken driver skal jeg vælge?
 
@@ -162,7 +162,7 @@ Jeg anbefaler derfor **nybegyndere at vælge lette, understabile discs**. Der fi
 
 Discgolfsporten er i rivende udvikling. Det betyder, at der er mange forhandlere af golfdiscs. Du kan købe frisbees i både købe sportsbutikker, dedikerede butikker til sporten og online.
 
-- **Discimport.dk** var den første onlineshop til frisbees og discgolf. For nylig har de udvidet med fysiske butikker også. Du kan læse mere på [discimport.com](https://discimport.com/).
+- **Discimport.dk** var den første onlineshop til frisbees og discgolf. I starten af 2020'erne udvidede de med fysiske butikker, og i 2024 fusionerede de med Discsport.dk.
 
 Læs: [Online butikker med discgolf som speciale](/discgolf-butikker/)
 

@@ -1,5 +1,6 @@
 ---
 title: "Kasterekorder: Hvor langt kan man kaste en frisbee?"
+seo_title: "Længste kast med en frisbee"
 permalink: /kasterekorder-frisbee/
 excerpt: Du kan kaste rigtig langt med en frisbee. Særligt hvis du har en
   dedikeret _driver_. Vi har fundet følgende distancerekorder og frisbeetyper.
@@ -21,7 +22,7 @@ faq:
 last_modified_at: 2022-07-21T10:21:26.000Z
 language: da
 ---
-Du kan kaste rigtig langt med en frisbee. Særligt hvis du har en dedikeret *driver*. Vi har fundet følgende distancerekorder og frisbeetyper på [discimport.dk](https://discimport.dk/blog/laengste-kast-med-en-frisbee).
+Du kan kaste rigtig langt med en frisbee. Særligt hvis du har en dedikeret *driver*.
 
 {% include video provider="youtube" id="4785JLeh50" %}
 
