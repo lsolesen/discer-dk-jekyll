@@ -16,3 +16,4 @@ jekyll-algolia-record-too-big.log
 .bundle/*
 build/*
 tmp/
+eleventy-fetch*

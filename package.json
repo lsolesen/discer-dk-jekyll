@@ -32,9 +32,9 @@
   },
   "scripts": {
     "test": "bundle exec mocha src/test/*.*",
-    "start": "bundle exec jekyll server --port 8080 --incremental",
-    "lsi": "bundle exec jekyll server --port 8080 --incremental --lsi",
-    "draft": "bundle exec jekyll server --port 8080 --incremental --drafts",
+    "start": "bundle exec jekyll server --port 4000 --incremental",
+    "lsi": "bundle exec jekyll server --port 4000 --incremental --lsi",
+    "draft": "bundle exec jekyll server --port 4000 --incremental --drafts",
     "build": "bundle exec jekyll build",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify",
