@@ -36,7 +36,7 @@ Ikoner brugt på sitet er lavet af <a href="https://www.flaticon.com/authors/dav
 
 ## Tal om Discer
 
-- Blogindlæg: {{ site.posts.size }}
+- Blogindlæg: {{ collections.posts.size }}
 
 ## Forfattere
 

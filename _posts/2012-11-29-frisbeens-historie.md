@@ -15,6 +15,7 @@ category:
   - Blog
 tags:
   - frisbeehistorie
+  - featured
 last_modified_at: 2023-01-04T10:14:39+01:00
 modified: 2012-12-01
 ---
@@ -30,7 +31,7 @@ I gennemgangen er desuden medtaget alle discs der på et tidspunkt har været br
 
 <div class="feature__wrapper">
 
-{% assign site_posts = site.posts | where: "categories", "frisbee" | sort: "modified" %}
+{% assign site_posts = collections.posts | where: "categories", "frisbee" | sort: "modified" %}
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}

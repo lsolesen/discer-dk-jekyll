@@ -13,6 +13,7 @@ category:
   - Udstyr
 tags:
   - discgolf
+  - featured
 last_modified_at: 2022-12-31T10:21:26Z
 faq:
   - question: Hvor mange disctyper findes der?

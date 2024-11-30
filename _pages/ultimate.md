@@ -24,7 +24,7 @@ I stedet skal spillerne passere disken til hinanden og navigere den gennem modst
 
 Hvis du leder efter en sjov og udfordrende sport, der kræver både fysiske og mentale færdigheder, så er Ultimate måske lige noget for dig!
 
-{% assign site_posts = site.posts | where: "category", "Ultimate" | where_exp: "post", "post.url != page.url" | sort: "date" %}
+{% assign site_posts = collections.posts | where: "data.category", "Ultimate" | where_exp: "post", "post.url != page.url" | sort: "date" %}
 
 {% if site_posts.size > 0 %}
 ## Artikler om ultimate

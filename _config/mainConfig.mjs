@@ -74,10 +74,10 @@ export default function (eleventyConfig) {
   // TODO: Might be better to turn off in the future, but for now this makes i way easier
   eleventyConfig.setLiquidOptions({
     jekyllInclude: true, // allow to use jekyll style include
+    jekyllWhere: true,
     extname: ".liquid", // Use .liquid if not specified
     dynamicPartials: false, // allow to use feature_row without quotes
-    strictFilters: true,
-    jekyllWhere: true
+    strictFilters: true
   });
 
   // Syntax highlighting with prism

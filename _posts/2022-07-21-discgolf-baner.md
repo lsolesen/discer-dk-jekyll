@@ -11,6 +11,7 @@ category:
   - Discgolf
 tags:
   - sport
+  - featured
 last_modified_at: 2022-07-21T10:21:26Z
 ---
 

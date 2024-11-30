@@ -20,7 +20,7 @@ Du kan bruge en frisbee til rigtig mange forskellige spil og idrætsgrene. Her h
 
 Frisbeesporten i Danmark vokser. De største discipliner er [discgolf](/discgolf/) og [ultimate](/ultimate/), men der findes også en række andre sjove sportsgrene, du kan spille med en frisbee.
 
-Her har vi samlet inspiration til de forskelle frisbeespil, som du kan kaste dig ud i.
+Her har vi samlet inspiration til de forskellige frisbeespil, som du kan kaste dig ud i.
 
 Men husk først at købe en ordentlig frisbee. Det er så meget sjovere, når du bruger den rigtige frisbee. Tjek nogle af de gode [online frisbeebutikker i Danmark](/discgolf-butikker/).
 

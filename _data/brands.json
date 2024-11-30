@@ -1,0 +1,86 @@
+[
+    {
+        "brand": "Innova",
+        "location": "Rancho Cucamonga, CA, US",
+        "founded": "1983",
+        "website": "https://innovadiscs.com",
+        "description": "Innova blev grundlagt i 1983 og skabte verdens første disc specielt designet til discgolf: Eagle. I dag er Innova et af de førende virksomheder inden for golfdiscar og indehaver verdensrekorden i længde med sin model Valkyrie."
+    },
+    {
+        "brand": "Latitude 64",
+        "location": "Skellefteå, SE",
+        "founded": "2005",
+        "website": "https://latitude64.se",
+        "description": "Latitude 64 har en vision om at være midt i den sport, vi alle elsker, og at lave produkter, der vil glæde alle. De producerer discs, der er pålidelige, holdbare og nemme at kontrollere."
+    },
+    {
+        "brand": "Kastaplast",
+        "location": "Stockholm, SE",
+        "founded": "2013",
+        "website": "https://kastaplast.se",
+        "description": "Kastaplast er fast besluttet på at levere discgolf-udstyr, der ikke vil svigte. Deres mission er at skabe discs af højeste kvalitet, uden genveje. Kastaplast er en uafhængig disc-producent baseret i Stockholm, Sverige."
+    },
+    {
+        "brand": "Dynamic Discs",
+        "location": "Emporia, KS, US",
+        "founded": "2005",
+        "website": "https://dynamicdiscs.com",
+        "description": "Dynamic Discs begyndte i discgolf-branchen i marts 2005 og har siden opnået stor succes blandt discgolf-virksomheder, der laver og sælger mærkevarer og tøj. Med hjælp fra talentfulde grafiske designere, der har skabt iøjnefaldende og distinkte designs, har DD været i stand til at nå ud til flere discgolfspillere end nogensinde før."
+    },
+    {
+        "brand": "Discmania",
+        "location": "Tampere, FI",
+        "founded": "2006",
+        "website": "https://discmania.net",
+        "description": "Discmania blev grundlagt af Jussi Meresmaa, der i 1990'erne opdagede, at discgolf kan mestres med kun et fåtal af discs. I 2006 opstod ideen om en unik disc-linje, og Discmania indgik et samarbejde med Innova og Dave Dunipace, der er faderen til den moderne golfdisc."
+    },
+    {
+        "brand": "Discraft",
+        "location": "Michigan, US",
+        "founded": "1979",
+        "website": "https://discraft.com",
+        "description": "Discraft blev grundlagt, da de blev fanget af den flyvende disc-bølge i 1970'erne. De ønskede at skabe discs af højere kvalitet, der kunne opfylde spillernes stadigt stigende færdigheder. I 1978 lancerede Discraft sig som et sportsudstyrsbrand for at imødekomme discsports-atleternes behov."
+    },
+    {
+        "brand": "Westside",
+        "location": "Helsinki, FI",
+        "founded": "1979",
+        "website": "https://westside.fi",
+        "description": "Westside Golf Discs er det tredje selskab nogensinde til at producere frisbee golfdiscs i Europa. Deres produktion foregår i samarbejde med Latitude, Europas største producent, grundet deres fem års erfaring med frisbeemaskiner. Discs' grafikker er inspireret af det finske nationale epos, Kalevala."
+    },
+    {
+        "brand": "MVP Disc Sports",
+        "location": "Brown City, MI, US",
+        "founded": "2009",
+        "website": "https://mvpdiscsports.com",
+        "description": "MVP Disc Sports har introduceret den unikke og innovative putter, Ion, til discgolf-markedet. Ion er en lige-flyvende putter med meget glide og en overmønstret kant, der gør det muligt at vælge fleksibilitet og fasthed, uden at gå på kompromis med den ønskede bløde og taktile kant."
+    },
+    {
+        "brand": "Prodigy",
+        "location": "Woodstock, GA, US",
+        "founded": "2012",
+        "website": "https://prodigydisc.com",
+        "description": "Prodigy Disc blev grundlagt af et hold af verdensmestre i discgolf, der følte behovet for at udvikle en mere konsekvent golfdisc, der kunne konkurrere på distancebaner, samt tilbyde en længere flugt, der kunne operere i de snævrere rammer på en discgolfbane."
+    },
+    {
+        "brand": "Millennium",
+        "location": "Austin, US",
+        "founded": "1994",
+        "website": "https://discgolf.com",
+        "description": "Millennium tilbyder et komplet udvalg af premium golfdiscs og tasker, der er designet til at give spillerne alt, hvad de behøver på banen uden at komplicere tingene. Millennium har i årtier fokuseret på at hjælpe golfspillere med at tage kontrol over deres spil, uanset om de er nybegyndere eller professionelle."
+    },
+    {
+        "brand": "Legacy Discs",
+        "location": "Austin, US",
+        "founded": "1994",
+        "website": "https://legacydiscs.com",
+        "description": "Legacy Discs er dedikeret til at opfylde drømmen om at skabe den bedste taske af discs for enhver golfspiller, selvom det kun er én model ad gangen. De er et spillernes firma, der er villige til at tage nye ideer og bringe dem til live på banen."
+    },
+    {
+        "brand": "Gateway",
+        "location": "Maryland Hts, MO, US",
+        "founded": "1994",
+        "website": "https://gdstour.com",
+        "description": "Gateway Disc Golf har i årevis været førende indenfor golf-tasker med deres højkvalitets produkter. Hvert år forbedres disse tasker baseret på kundernes feedback, og Gateway kombinerer komfort og funktionalitet."
+    }
+]

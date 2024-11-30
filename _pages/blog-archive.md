@@ -7,7 +7,7 @@ seo_title: "Blog om frisbeesport, discgolf og ultimate | Discer"
 classes: wide
 author_profile: true
 ---
-{% assign site_posts = site.posts | sort: "last_modified_at" | reverse %}
+{% assign site_posts = collections.posts | sort: "last_modified_at" | reverse %}
 
 {% if site_posts.size > 0 %}
 <h2>Seneste opdateringer på Discers blog</h2>

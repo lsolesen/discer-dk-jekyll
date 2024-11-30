@@ -35,7 +35,7 @@ Discimport driver både webshop og fysiske butikker i København, Aarhus og Silk
 
 Ud over onlinebutikken så kan du også få personlig service i deres butikker.
 
-Discimport har helt sikkert det største sortiment i Danmark. De har mere end 200.000 produkter på lager. Hvis du gerne vil handle online, så kan du stadig en god kundeservice og vejledning, hvor du snakker med inkarnerede discgolfspillere, der ved virkelig meget om sporten.
+Discimport har helt sikkert det største sortiment i Danmark. De har mere end 20.000 produkter på lager. Hvis du gerne vil handle online, så kan du stadig en god kundeservice og vejledning, hvor du snakker med inkarnerede discgolfspillere, der ved virkelig meget om sporten.
 
 Discimport er meget aktiv i at fremme udviklingen af discgolfsporten, og de støtter både bredden og eliten.
 
@@ -150,6 +150,9 @@ Vi uddanner løbende vores medarbejdere således vi fortsat kan sikre kunderne d
 Vi har siden 2019 samarbejdet med Latitude 64 som er en producent med base i Skellefteå, Sverige. Latitude 64 er blandt verdens største producenter og producerer i den absolut højeste kvalitet. Latitude 64 producerer desuden private label produkter for nogle af verdens andre førende leverandører.
 
 https://frisbeesport.dk/shop/
+
+
+
 
 {% endcomment %}
 

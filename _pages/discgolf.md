@@ -16,17 +16,17 @@ faq:
 breadcrumbs: true
 ---
 
-Discgolf er en sjov og spændende sport, der involverer at kaste en disc mod et mål.
+Discgolf er en sjov og spændende sport, hvor du skal kaste en disc mod en kurv.
 
-Discgolf ligner golf, men i stedet for at slå en bold med en kølle, kaster du en disc mod et mål. Målet er at nå målet i færrest mulige kast.
+Discgolf ligner golf, men i stedet for at slå en bold med en kølle, kaster du en disc mod en kurv. Målet er at nå målet i færrest mulige kast.
 
-Discgolf er en sport, der kræver både præcision og udholdenhed, da du skal navigere disken gennem træer, buske og andre forhindringer for at nå målet.
+Discgolf er en sport, der kræver både præcision og koncentration, da du skal navigere disken gennem træer, buske og andre forhindringer for at nå målet.
 
 Discgolf er en sport, der er tilgængelig for alle aldre og færdighedsniveauer, så uanset om du er en erfaren spiller eller helt nybegynder, kan du være med!
 
 ## Artikler om discgolf
 
-{% assign site_posts = site.posts | where: "category", "Discgolf" | where_exp: "post", "post.url != page.url" | sort: "date" %}
+{% assign site_posts = collections.posts | where: "data.category", "Discgolf" | where_exp: "post", "post.url != page.url" | sort: "date" %}
 
 <div class="feature__wrapper">
 

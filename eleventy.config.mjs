@@ -32,19 +32,13 @@ export default async function (eleventyConfig) {
 
   // Collections
   eleventyConfig.addCollection('posts', function(collection) {
-    return collection.getFilteredByGlob('docs/_posts/**/*.md');
-  });
-
-  // Custom Collections
-  eleventyConfig.addCollection('docs', function(collection) {
-    return collection.getFilteredByGlob('docs/_docs/**/*.md');
+    return collection.getFilteredByGlob('_posts/**/*.md');
   });
 
   // Pass through
   eleventyConfig.addPassthroughCopy("assets/css");
   eleventyConfig.addPassthroughCopy("assets/js");
   eleventyConfig.addPassthroughCopy("assets/images/");
-  eleventyConfig.addPassthroughCopy({ "docs/assets/images": "assets/images" });
 
   // USE if you want to override one of the layouts and use your own version
   // eleventyConfig.addLayoutAlias("single", "../_layouts/splash.html");
